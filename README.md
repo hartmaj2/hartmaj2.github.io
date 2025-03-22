@@ -1,4 +1,5 @@
-# hartmaj2.github.io
-Link to presentation for Goethe course: [https://docs.google.com/presentation/d/1MYIAidYw7SI0SqpCnulc21i7BLXaVdI0cZrPNoDyEsI/edit?usp=sharing](https://docs.google.com/presentation/d/1MYIAidYw7SI0SqpCnulc21i7BLXaVdI0cZrPNoDyEsI/edit?usp=sharing)
+# My personal webpage
 
-Link to useful words: [https://docs.google.com/document/d/1zZUgB9ujfIhgoFmyJIAlDDEOfH4MrbU2-2xWUzJGmrs/edit?usp=sharing](https://docs.google.com/document/d/1zZUgB9ujfIhgoFmyJIAlDDEOfH4MrbU2-2xWUzJGmrs/edit?usp=sharing)
+This webpage is a mixture of blog and a personal wiki. I tried to make it as minimalistic as possible. Thus there are no styles or anything. Just raw text and a simple nav bar on top of each page. 
+
+Enjoy the reading!

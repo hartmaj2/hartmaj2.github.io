@@ -14,3 +14,7 @@ A collection of thoughts that I find useful or interesting. Some of them will be
 1. General - simply about life 
 2. Mathematics - about my most belowed subject
 3. Sports - mostly thoughts considering climbing or swimming technique or philosophy
+
+## Why this page looks so ugly?
+
+Lets say I just like to keep things simple. Sometimes less is more.
