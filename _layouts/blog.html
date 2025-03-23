@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="/css/style.css">
+    <title>{{ page.title }}</title>
+  </head>
+  <body>
+    <div class="container">
+      <nav>
+        <a href="/"> Home </a>
+        {% for page in site.pages %}
+          {% if page.url != "/" %}
+          <a href="{{ page.url }}"> {{ page.title }} </a>
+          {% endif %}
+        {% endfor %}
+      </nav>
+      <main>
+          {{ content }}
+          <h1> Posts </h1>
+          <div class="posts-list">
+              <ul>
+                  {% for post in site.posts %}
+                      <li> {{ post.date | date: "%-d. %-m. %Y" }} : <a href="{{ post.url }}"> {{ post.title }}</a> </li>
+                  {% endfor %}
+              </ul>
+          </div>
+      </main>
+    </div>
+  </body>
+</html>
