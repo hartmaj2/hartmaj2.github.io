@@ -1,0 +1,21 @@
+---
+layout: default
+title: 7HoHEP č.1
+---
+
+# 7 Habits of Highly Effective People - Summary 1
+
+Rád bych zkusil, jak v tomto blogu bude působit kombinace češtiny a angličtiny. Někdy mám totiž chuť psát anglicky, jelikož je to jednodušší co se týče psaní všemi deseti. Jindy se mi ale posteskne po háčcích a čárkách a čeština prostě zvítězí. 
+
+Nicméně, rád bych si hlavně tímto příspěvkem aktivně zopakoval, co jsem doposud načetl z knížky, kterou se momentálně zabívám, 7 Habits of Highly Effective People od Stephena Coveyho. Vlastně sám Covey v knížce napádá, ať o tom, co si zrovna přečtu někomu povykládám. Tak ten někdo bude internet.
+
+První, co mi vlastně teď vyvstává na mysli a co se mi na knížce líbí je, jak Covey přistupuje k tématu poněkud matematickou cestou, když nejprve zadefinuje, co je to "habit" a co je to "effectivity". Samotné definice už sice tak matematické nejsou, ale ta myšlenka toho, že je dobré si urovnat, o čem vůbec mluvíme je užitečná.
+
+## Habit
+
+Myslím, že "habit" se definuje jako něco, co opakovaně děláme. Mám pocit, že ho dělil na tři části. Jaké to jsou? A podle jakého kritéria se dělí?
+
+## Effectiveness
+
+Tu definuje příběhem. Skoro si říkám, jaká to škoda, že tento typ definice neprovádíme i na Matfyzu. Mluví tam o principu, kterému říká P/PC balance. P zde znamená "production", kdežto "PC" neznamená osobní počítač, ale "production capability". Production vnímá jako přímé získávání něčeho pro člověka příjemného, chtěného. Může to být produkce peněz, štěstí, rozkoše či jiných podobných věcí. 
+
