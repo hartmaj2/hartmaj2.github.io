@@ -9,8 +9,9 @@
     <div class="container">
       <nav> 
         <a href="/"> Home </a>
+        <a href="/blog/"> Blog </a>
         {% for page in site.pages %}
-          {% if page.url != "/" %}
+          {% if page.url != "/" and page.title != "Blog" %}
           <a href="{{ page.url }}"> {{ page.title }} </a>
           {% endif %}
         {% endfor %}
