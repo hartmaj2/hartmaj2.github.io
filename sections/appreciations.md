@@ -53,3 +53,7 @@ Taky velmi akční a pracovitá.
 ## M
 
 Velmi autentický a nedělá si starosti z toho, co si o něm lidé myslí. Nesnaží se zalíbit, žije naplno. Extrémně schopný a šikovný. Taky velmi sportovně založený. A je s ním spoustu srandy. Nejvíce upřímně vysmáté momenty svého života si vybavuji hlavně s ním.
+
+## M
+
+Líbí se mi, jak bere vše s humorem a nadsázkou. Často mi přijde, že tohle lidem chybí. Jsou ve stresu a smutní, protože berou život příliš vážně. Také mě inspiruje svým přístupem k sociálním médiím a dalším věcem, které požírají lidské duše. Mám také pocit, že podobně jako já klade důraz na tvořivý aspekt života. Nejde mu o dokonalost, ale prostě o snahu něco pěkného, vtipného či jakkoliv jinak obohacujícího vytvořit.
