@@ -17,7 +17,3 @@ A collection of thoughts that I find useful or interesting. Some of them will be
 4. Mathematics - about my most belowed subject
 5. Sports - mostly thoughts considering climbing or swimming technique or philosophy
 6. Virtues - list of character traits that I find good
-
-## Poker program starter kit
-
-- [link](https://github.com/hartmaj2/24-25-python/blob/main/25_03_28/poker_starter_kit.py)
