@@ -11,7 +11,7 @@ Out of all places in the universe, you arrived at my webpage. Enjoy this unique 
 ## What can you find here?
 
 A collection of thoughts that I find useful or interesting. Some of them will be written in English, some of them in Czech. So far I have divided these thought into these sections:
-1. Blog - unsorted collection of thoughts on various topics
+1. Blog - random collection of thoughts on various topics sorted by date
 2. Appreciations - things that inspire me on my friends and family members
 3. General - simply about life 
 4. Mathematics - about my most belowed subject
