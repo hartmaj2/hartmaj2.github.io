@@ -40,6 +40,10 @@ Pracovitý, velmi sociálně smíšlející a soucítící člověk. Jemu vděč
 
 Hlavně je také velmi obětavý. Málo kdo toho pro druhé dělá tolik, jako on, myslím.
 
+Je mi na něm velmi sympatické, že má velký smysl pro řád a konkrétnějí i pro pořádek. Takoví lidé mi obecně jsou velmi sympatičtí.
+
+Také rozumí mému občas střelenému humoru a je přede mnou sám sebou. Za to jsem moc vděčný.
+
 ## K
 
 Žák z mého kroužku, který je nesmírně pozorný a šikovný. Vlastně by se od něj mohlo mnoho starších dětí inspirovat. Doufám, že bude mít spoustu úspěchů, protože je to fakt dobrý člověk. Má můj obdiv!
@@ -57,3 +61,9 @@ Velmi autentický a nedělá si starosti z toho, co si o něm lidé myslí. Nesn
 ## M
 
 Líbí se mi, jak bere vše s humorem a nadsázkou. Často mi přijde, že tohle lidem chybí. Jsou ve stresu a smutní, protože berou život příliš vážně. Také mě inspiruje svým přístupem k sociálním médiím a dalším věcem, které požírají lidské duše. Mám také pocit, že podobně jako já klade důraz na tvořivý aspekt života. Nejde mu o dokonalost, ale prostě o snahu něco pěkného, vtipného či jakkoliv jinak obohacujícího vytvořit.
+
+Důležité je zmínit, že obdivuji také jeho sociální odvahu. Nebojí se dělat věci, které já už bych si občas netroufl. Nutno tedy podotknout, že na nějaké z těch věcí bych si ani troufat nechtěl, ale stejně mi to přijde jako sympatická vlastnost.
+
+## M
+
+Byl mým vzorem téměr celé mé dětství a stále mě inspiruje. Obdivuji hlavně jeho vyjednávací schopnosti. Znám málo koho, kdo by dokázal s lidmi komunikovat tak dobře jako on. Líbí se mi také jeho upřímnost k ostatním. Nebojí se řešit i témata, která nejsou zrovna příjemná, ale přijdou mu důležitá. Nezametá věci pod koberec a řeší věci často na přímo. Také je velmi pracovitý.
