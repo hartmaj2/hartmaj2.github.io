@@ -65,3 +65,17 @@ Yeah belaying should be considered a sport on its own. People should pay more at
 ## Swimming
 
 Elegance and meditation combined.
+
+### Kraul
+
+- ruce napínat úplně dopředu a zároveň až úplně dozadu (ruka musí na konci pohybu ruky skončit naprosto natažená a dlaň až úplně u zadku)
+
+- nohy kopají pravidelně, bývá to 1,2,3 valčík tempo
+
+- ruka před tělem dlouho napnutá před záběrem a udává směr
+
+- paže nad vodou tahám pohybem, jehož impulz začíná v loktu
+
+- paže jedou ve svých kolejích, abych nekřížil svou osu (nedávám je přes hlavu napříč, ale ze široka rovně dopředu)
+
+- během záběru se naklápím ramenem, kterým zároveň dělám záběr (to by mi mělo odemknout silnější záběr)
