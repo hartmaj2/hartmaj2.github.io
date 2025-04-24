@@ -30,6 +30,22 @@ Tady jsou typy a triky, které je dobré mít během lezení na paměti:
 - nebát se i v unavenosti stále využívat čas na průzkum možností
 - nepanikařit a být odhodlaný, buď to vyzkouším a není co řešit nebo si odsednu; zbytečne je viset v dlouhém přemlouvání se a pak to stejně nezkusit
 
+### Chyty svírat tak akorát
+- když se člověk bojí, že spadne, tak má tendenci chyty svírat příliš křečovitě
+- každá síla navíc, se kterou člověk chyty svírá, člověku bere energii
+- je tedy dobré se snažit je držet co nejjemněji
+- zároveň však člověk nechce spadnout
+- je tedy důležité, snažit se najít to správné množství síly, kterou člověk má aplikovat
+
+### Před lezením si pohledem prozkoumat cestu
+- je o mnoho lehčí lézt cestu, když aspoň vím, kde se který chyt nachází, než když lezu úplně bez předchozího promyšlení trasy
+- stává se pak, že člověk v tom důležitém momentu, kdy potřebuje šetřit síly, najednou potřebuje hledat chyty
+- bylo by však mnohem jednodušší ty chyty už mít načtené v paměti předem
+
+### Šlapat na stupy úplnou špičkou
+- člověku to zanechá volnost v tom, kdyžtak tu nohu orotovat jiným potřebným směrem (a práce s váhou opravdu hodně pomáhá)
+- také má člověk větší sílu na malé místo tzn. větší tlak a větší tření
+
 ## Belaying your partner
 
 Yeah belaying should be considered a sport on its own. People should pay more attention to it.
