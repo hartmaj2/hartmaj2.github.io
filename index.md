@@ -22,4 +22,4 @@ A collection of thoughts that I find useful or interesting. Some of them will be
 
 - [link to scratch class](http://scratch.mit.edu/signup/e4tp39524)
 
-- [link to poker starter program](https://github.com/hartmaj2/24-25-python/blob/c3edb98ff719497142a658295fb28481127d3395/25_03_28/poker_starter_kit.py)
+- [link to poker starter program](https://github.com/hartmaj2/24-25-python/blob/8b98713112818ecc2d3faa9bc77b128935681194/25_04_25/poker_started_kit2.py)
