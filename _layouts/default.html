@@ -11,7 +11,7 @@
         <a href="/"> Home </a>
         <a href="/blog/"> Blog </a>
         {% for page in site.pages %}
-          {% if page.url != "/" and page.title != "Blog" %}
+          {% if page.url != "/" and page.title != "Blog"  and page.url != "/zakazky"%}
           <a href="{{ page.url }}"> {{ page.title }} </a>
           {% endif %}
         {% endfor %}
