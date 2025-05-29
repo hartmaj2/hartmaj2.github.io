@@ -1,2 +1,3 @@
 exclude:
  - resources.md
+ - scratch/
