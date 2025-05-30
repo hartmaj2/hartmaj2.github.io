@@ -20,6 +20,4 @@ A collection of thoughts that I find useful or interesting. Some of them will be
 
 ## Sharepoint
 
-- [link to scratch class](http://scratch.mit.edu/signup/e4tp39524)
-
-- [link to poker starter program](https://github.com/hartmaj2/24-25-python/blob/8b98713112818ecc2d3faa9bc77b128935681194/25_04_25/poker_started_kit2.py)
+- [link to final projects studio](https://scratch.mit.edu/studios/50581472)
