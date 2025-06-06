@@ -20,4 +20,6 @@ A collection of thoughts that I find useful or interesting. Some of them will be
 
 ## Sharepoint
 
-- [link to final projects studio](https://scratch.mit.edu/studios/50581472)
+- [final scratch projects studio](https://scratch.mit.edu/studios/50581472)
+
+- [pass it on studio](https://scratch.mit.edu/studios/37007359)
