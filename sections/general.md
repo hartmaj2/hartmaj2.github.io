@@ -6,7 +6,7 @@ permalink: /general/
 
 # General 
 
-Thoughts or concepts I consider useful for living a good. What does good mean? I will not define that here, sorry. You know what I mean.
+Thoughts or concepts I consider useful for living a good life. What does good mean? I will not define that here, sorry. You know what I mean.
 
 ## Balance 
 
