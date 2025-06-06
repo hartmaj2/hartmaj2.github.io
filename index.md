@@ -17,9 +17,3 @@ A collection of thoughts that I find useful or interesting. Some of them will be
 4. Mathematics - about my most belowed subject
 5. Sports - mostly thoughts considering climbing or swimming technique or philosophy
 6. Virtues - list of character traits that I find good
-
-## Sharepoint
-
-- [final scratch projects studio](https://scratch.mit.edu/studios/50581472)
-
-- [pass it on studio](https://scratch.mit.edu/studios/37007359)
