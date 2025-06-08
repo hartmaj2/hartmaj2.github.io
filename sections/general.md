@@ -21,10 +21,11 @@ Some interesting areas in life when I find striking the right amount of balance 
 - exploring vs exploiting
   - taking risks by trying new things
   - sticking to daily habits
-- observing vs creating
+- consuming vs creating
   - creating something useful
   - getting the necessary materials to create from
   - subarea: listening (observe-like activity) vs talking (create-like activity)
+  - subarea: observing vs acting
 - getting it done somehow vs aiming for perfection
 - letting things go vs taking action
   - avoiding meaningless conflicts
