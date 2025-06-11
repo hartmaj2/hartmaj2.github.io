@@ -89,6 +89,11 @@ Elegance and meditation combined.
 
 - nohy kopou více u hladiny a nepadají dolů
 
+- nohama nenakračovat (nekrčit je v kolenech a mít je co nejvíce napnuté rovně ve směru plavby)
+
+- během nadechování nekroutit hlavu nad hladinu
+  - raději využít rotaci ramen, ke které se hlava jen připojí a tím se dostane nenásilně nad hladinu
+
 ### Prsa
 
 - ruce zabírají směrem dolů pod sebe a ne do stran
