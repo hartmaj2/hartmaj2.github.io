@@ -17,3 +17,7 @@ A collection of thoughts that I find useful or interesting. Some of them will be
 4. Mathematics - about my most belowed subject
 5. Sports - mostly thoughts considering climbing or swimming technique or philosophy
 6. Virtues - list of character traits that I find good
+
+## Links
+
+- [thesis-defense](https://docs.google.com/presentation/d/1Ww7GsQ6thMQJ_91pGAqu7u6-hFP0eeC0qQeBh8qXqyc/edit?usp=sharing)
