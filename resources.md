@@ -20,3 +20,9 @@
 
 - control flow
   - [link](https://shopify.github.io/liquid/tags/control-flow/)
+
+## Technical site details
+
+- for Latex rendering, we put `<script async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"> </script>` in the head of the layout html
+  - `async` means that the script does not block rendering of the rest of the HTML document
+  - CDN (Content Delivery Network) - delivers content from the nearest source to me using the same piece of code for everybody

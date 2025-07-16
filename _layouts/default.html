@@ -4,6 +4,18 @@
     <meta charset="UTF-8">
     <link rel="stylesheet" href="/css/style.css">
     <title>{{ page.title }}</title>
+    <script>
+    window.MathJax = {
+      tex: {
+        inlineMath: [['$', '$']],
+        displayMath: [['$$', '$$']]
+      },
+      svg: {
+        fontCache: 'global'
+      }
+    };
+    </script>
+    <script async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"> </script>
   </head>
   <body>
     <div class="container">
