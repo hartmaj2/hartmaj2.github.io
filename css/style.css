@@ -36,3 +36,15 @@ blockquote {
   padding: .1em 10px .1em;
   quotes: "\201C" "\201D" "\2018" "\2019";
 }
+
+figure {
+  text-align: center;
+  margin: 1em 0;
+}
+
+figcaption {
+  font-style: italic;
+  font-size: 0.9em;
+  color: #555; /* muted color for captions */
+  margin-bottom: 2em;
+}
