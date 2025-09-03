@@ -41,52 +41,52 @@ Also, like The Little Prince said, we should be of use to things that we own. We
 
 # České z my wiki
 
-## Byt vdecny casto
+## Být vděčný často
 
-Ne nahodou je tato myslenka na prvnim miste. Temer kazdy vecer pred spanim si pro sebe rikam, za co jsem vdecny. Vnimam od te doby obrovske zlepseni sve nalady i vykonu. 
+Ne náhodou je tato myšlenka na prvním místě. Téměř každý večer před spaním si pro sebe říkám, za co jsem vděčný. Vnímám od té doby obrovské zlepšení své nálady i výkonu. 
 
-## Drzet se svych rozhodnuti
+## Držet se svých rozhodnutí
 
-Drive jsem v hodne vecech hledal chyby a casto, kdyz jsem neco delal nebo ucinil nejake rozhodnuti, tak jsem se stale sebe tazal, zda je to to spravne. Delat toto obcas je v poradku, ale pochybovat pri kazde prilezitosti cloveka zpomaluje. Nakonec mi prijde mnohem uzitecnejsi, proste byt v pritomnem okamziku a nemyslet na to, co by kdyby.
+Dříve jsem v hodně věcech hledal chyby a často, když jsem něco dělal nebo učinil nějaké rozhodnutí, tak jsem se stále sebe tázal, zda je to to správné. Dělat toto občas je v pořádku, ale pochybovat při každé příležitosti člověka zpomaluje. Nakonec mi přijde mnohem užitečnější, prostě být v přítomném okamžiku a nemyslet na to, co by kdyby.
 
-## Byt vesely
+## Být veselý
 
-U tohoto bodu si vzdy vzpomenu na Davida Machacka, kamarada od brachy. On si totiz do sveho Lifebooku napsal, ze chce byt jako "kulicka stesti", proste byt vesely a davat to najevo. Tam jsem se poprve setkal s tim, ze byt vesely se da brat proste jako rozhodnuti nezavisle na okoli. A vnimam to podobne. I kdyz se citim velmi na dne, tak se vzdy da najit neco, za co se hodi byt vesely. 
+U tohoto bodu si vždy vzpomenu na Davida Macháčka, kamaráda od bráchy. On si totiž do svého Lifebooku napsal, že chce být jako "kulička štěstí", prostě být veselý a dávat to najevo. Tam jsem se poprvé setkal s tím, že být veselý se dá brát prostě jako rozhodnutí nezávislé na okolí. A vnímám to podobně. I když se cítím velmi na dně, tak se vždy dá najít něco, za co se hodí být veselý. 
 
-No a predevsim je nutne si uvedomit toto: Temer nikdy cloveku nepomuze byt smutny. Je to celkem k nicemu emoce. Tak je lepsi si vedome vybirat a rikat si pro sebe, ze jsem vesely clovek. Vesely clovek by mela byt moje identita.
+No a především je nutné si uvědomit toto: Téměř nikdy člověku nepomůže být smutný. Je to celkem k ničemu emoce. Tak je lepší si vědomě vybírat a říkat si pro sebe, že jsem veselý člověk. Veselý člověk by měla být moje identita.
 
-## Zit v pritomnosti
+## Žít v přítomnosti
 
-Toto je uzasna poucka. Clovek se musi naucit byt panem sve mysli a nenechat ji odletat prilis daleko. Ta tekavost totiz muze kazit mnohe. Napriklad kdyz sportuji a u toho premyslim, nad necim jinym, tak nepodavam stoprocentni vykon. Kdyz posloucham kamarada a premyslim u toho nad necim jinym, tak neco preslechnu a nemuzu dobre odpovedet. Je dulezite tedy byt v pritomnosti celym svym telem i dusi.
+Toto je úžasná poučka. Člověk se musí naučit být pánem své mysli a nenechat ji odletět příliš daleko. Ta těkavost totiž může kazit mnohé. Například když sportuji a u toho přemýšlím nad něčím jiným, tak nepodávám stoprocentní výkon. Když poslouchám kamaráda a přemýšlím u toho nad něčím jiným, tak něco přeslechnu a nemůžu dobře odpovědět. Je důležité tedy být v přítomnosti celým svým tělem i duší.
 
-Proto je dobre, stale si pripominat, ze chci byt vyborny posluchac. Umet opravdu druhym naslouchat hluboce a pozorne.
+Proto je dobré stále si připomínat, že chci být výborný posluchač. Umět opravdu druhým naslouchat hluboce a pozorně.
 
-## Umet ovladat svou pozornost je klicove
+## Umět ovládat svou pozornost je klíčové
 
-Tohoto jsem si vsiml predevsim, kdyz jsem premyslel nad tim, proc je Hanka tak dobra v matematice, a tak chytra. Ona ma totiz neskutecne dobrou schopnost, davat pozor, kdyz se pro to vedome rozhodne. Minimalne z ni mam ten dojem, i kdyz se spolu bavime. Myslim si tedy, ze to tak bude.
+Tohoto jsem si všiml především, když jsem přemýšlel nad tím, proč je Hanka tak dobrá v matematice, a tak chytrá. Ona má totiž neskutečně dobrou schopnost dávat pozor, když se pro to vědomě rozhodne. Minimálně z ní mám ten dojem, i když se spolu bavíme. Myslím si tedy, že to tak bude.
 
-Zaroven mi prijde, ze jsem pak obecne spokojenejsi clovek, protoze kdyz jsem pozorny, tak jdu v souladu s okolnim denim a neperu se s nim. Je to takova myslenkova symbioza, ktera me pak uvadi celkove do vetsi pohody. Je to vlastne neskutecne prijemne pro mozek, kdyz se naucim byt pozorny a proste vypnout okolni vjemy, kterych je v dnesni dobe prilis mnoho a prevazna vetsina z nich je nedulezita.
+Zároveň mi přijde, že jsem pak obecně spokojenější člověk, protože když jsem pozorný, tak jdu v souladu s okolním děním a neperu se s ním. Je to taková myšlenková symbióza, která mě pak uvádí celkově do větší pohody. Je to vlastně neskutečně příjemné pro mozek, když se naučím být pozorný a prostě vypnout okolní vjemy, kterých je v dnešní době příliš mnoho a převážná většina z nich je nedůležitá.
 
-## Preferovat automatizaci nad rychlym resenim
+## Preferovat automatizaci nad rychlým řešením
 
-Jednu dobu mi prislo, ze bych mel preferovat automatizaci jedine v tech konkretnich pripadech, kdy mi to opravdu usetri cas. Nyni si ale myslim, ze je dobre si tuto hranici trochu posunout a preferovat automatizaci casteji. Hledat automatizovana reseni totiz trenuje mozek v tom, rozpoznavat vzorce a algoritmicky uvazovat, coz je skvela vlastnost. Delat opicacke kopirovani nebo nejake trivialni ukony ubiji mozek.
+Jednu dobu mi přišlo, že bych měl preferovat automatizaci jedině v těch konkrétních případech, kdy mi to opravdu ušetří čas. Nyní si ale myslím, že je dobré si tuto hranici trochu posunout a preferovat automatizaci častěji. Hledat automatizovaná řešení totiž trénuje mozek v tom rozpoznávat vzorce a algoritmicky uvažovat, což je skvělá vlastnost. Dělat opičácké kopírování nebo nějaké triviální úkony ubíjí mozek.
 
-## Nemluvit sproste
+## Nemluvit sprostě
 
-Mluvit sproste neni dobry napad. Staci si uvedomit, jaci lide mluvi sproste. Urcite sem spadaji mnozi zlodeji a podvodnici. Celkove lide, co siri nenavist. No a to neni sorta lidi, se kterou bych se chtel ztotoznovat. 
+Mluvit sprostě není dobrý nápad. Stačí si uvědomit, jací lidé mluví sprostě. Určitě sem spadají mnozí zloději a podvodníci. Celkově lidé, co šíří nenávist. No a to není sorta lidí, se kterou bych se chtěl ztotožňovat. 
 
-## Naucit se pojmenovavat veci spravnym jmenem
+## Naučit se pojmenovávat věci správným jménem
 
-Je uzitecne umet se vyjadrovat presne. Nepouzivat slova jako "vytentovat" a podobne. Je to dobry trenink mozku a navic, protoze rad ucim deti, tak mi to pomaha s mymi prezentacnimi schopnostmi.   
+Je užitečné umět se vyjadřovat přesně. Nepoužívat slova jako "vytentovat" a podobně. Je to dobrý trénink mozku a navíc, protože rád učím děti, tak mi to pomáhá s mými prezentačními schopnostmi.   
 
-## Kdyz se neco nepovede, zamyslet se ihned, jak to priste udelat lepe
+## Když se něco nepovede, zamyslet se ihned, jak to příště udělat lépe
 
-Zacnu prikladem: V tramvaji jsem poustel lidi a vystupoval z ni ven a zase nastoupil zpet. Pak jsem si uvedomil pozdeji, ze jsem behem prestupovani mel jit do predni casti tramvaje a bylo by to lepsi. Nejprve mi naskocil takovy horky pocit, ale hned jsem si uvedomil, ze misto zalu by clovek mel zacit premyslet vzdy o te lekci, kterou by si mel odnest. 
+Začnu příkladem: V tramvaji jsem pouštěl lidi a vystupoval z ní ven a zase nastoupil zpět. Pak jsem si uvědomil později, že jsem během přestupování měl jít do přední části tramvaje a bylo by to lepší. Nejprve mi naskočil takový hořký pocit, ale hned jsem si uvědomil, že místo žalu by člověk měl začít přemýšlet vždy o té lekci, kterou by si měl odnést. 
 
-Ta lekce by mela byt ve forme nejakeho obecneho pravidla, ktere muzu aplikovat na co nejvice situaci. V tomto pripade by znela: Kdyz musim vystoupit pri pousteni lidi v tramvaji, tak se zamyslet, zda by nebylo vyhodne nastoupit do jineho vozu. Podobne se ale tento postup da generalizovat na jine pripady, a take ze tak se to vetsinou snazim delat.
+Ta lekce by měla být ve formě nějakého obecného pravidla, které můžu aplikovat na co nejvíce situací. V tomto případě by zněla: Když musím vystoupit při pouštění lidí v tramvaji, tak se zamyslet, zda by nebylo výhodné nastoupit do jiného vozu. Podobně se ale tento postup dá generalizovat na jiné případy, a také že tak se to většinou snažím dělat.
 
-## Ceka-li me nejaka udalost, natesit se na ni
+## Čeká-li mě nějaká událost, natěšit se na ni
 
-Toto souvisi trochu i s pozitivnim naladenim. Casto mi prijde, ze si v hlave nejakou aktivitu/udalost/dobu znechucuji a netesim se na ni. Casto je to tim, ze vnimam, ze bych se mozna mel misto te udalosti ucit (a tak si ji nemohu poradne uzit), nebo mi ta udalost neprijde tak zajimava, ci ji vnimam jako povinnost.
+Toto souvisí trochu i s pozitivním naladěním. Často mi přijde, že si v hlavě nějakou aktivitu/událost/dobu znechucuji a netěším se na ni. Často je to tím, že vnímám, že bych se možná měl místo té události učit (a tak si ji nemohu pořádně užít), nebo mi ta událost nepřijde tak zajímavá, či ji vnímám jako povinnost.
 
-Dobre je, tyto negativni myslenky si uvedomit a zamyslet se nad tim, cim me ta dana udalost obohati a jak ten cas behem te udalosti vyuzit na maximum.
+Dobré je tyto negativní myšlenky si uvědomit a zamyslet se nad tím, čím mě ta daná událost obohatí a jak ten čas během té události využít na maximum.
