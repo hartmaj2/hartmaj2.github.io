@@ -40,6 +40,13 @@ main a {
 /* Blog posts list */
 .posts-list {
   background-color: var(--secondary-color);
+  border-radius: 10px;
+  padding: 1px 0px;
+}
+
+/* Make more space between the posts inside the list */
+.posts-list ul li {
+  margin: 5px 0px;
 }
 
 blockquote {
