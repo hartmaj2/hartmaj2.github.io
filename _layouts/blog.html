@@ -4,28 +4,14 @@
     <meta charset="UTF-8">
     <link rel="stylesheet" href="/css/style.css">
     <title>{{ page.title }}</title>
+    {% include latex_scripts.html %}
   </head>
   <body>
     <div class="container">
-      <nav>
-        <a href="/"> Home </a>
-        <a href="/blog/"> Blog </a>
-        {% for page in site.pages %}
-          {% if page.url != "/" and page.title != "Blog"  and page.url != "/zakazky"%}
-          <a href="{{ page.url }}"> {{ page.title }} </a>
-          {% endif %}
-        {% endfor %}
-      </nav>
+      {% include navigation.html %}
       <main>
           {{ content }}
-          <h1> Posts </h1>
-          <div class="posts-list">
-              <ul>
-                  {% for post in site.posts %}
-                      <li> {{ post.date | date: "%-d. %-m. %Y" }} : <a href="{{ post.url }}"> {{ post.title }}</a> </li>
-                  {% endfor %}
-              </ul>
-          </div>
+          {% include posts_list.html %}
       </main>
     </div>
   </body>

@@ -23,6 +23,12 @@
 
 ## Technical site details
 
+### Latex rendering
+
 - for Latex rendering, we put `<script async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"> </script>` in the head of the layout html
   - `async` means that the script does not block rendering of the rest of the HTML document
   - CDN (Content Delivery Network) - delivers content from the nearest source to me using the same piece of code for everybody
+
+### Top navbar
+
+The top navbar can be found in `_includes/navigation.html`. The best feature of this navbar is, that it is created automatically using a for loop (written in liquid templating language) that goes through all pages in the sections.

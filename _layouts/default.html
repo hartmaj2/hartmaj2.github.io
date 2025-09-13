@@ -4,30 +4,11 @@
     <meta charset="UTF-8">
     <link rel="stylesheet" href="/css/style.css">
     <title>{{ page.title }}</title>
-    <script>
-    window.MathJax = {
-      tex: {
-        inlineMath: [['$', '$']],
-        displayMath: [['$$', '$$']]
-      },
-      svg: {
-        fontCache: 'global'
-      }
-    };
-    </script>
-    <script async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"> </script>
+    {% include latex_scripts.html %}
   </head>
   <body>
     <div class="container">
-      <nav> 
-        <a href="/"> Home </a>
-        <a href="/blog/"> Blog </a>
-        {% for page in site.pages %}
-          {% if page.url != "/" and page.title != "Blog"  and page.url != "/zakazky"%}
-          <a href="{{ page.url }}"> {{ page.title }} </a>
-          {% endif %}
-        {% endfor %}
-      </nav>
+      {% include navigation.html %}
       <main>
         {{ content }}
       </main>
