@@ -1,21 +1,6 @@
+/* The :root is a pseudoclass selector (because of the colon) which matches the root element of the document tree */
 :root {
   --main-color: #a54;
-}
-
-nav {
-  background-color: #eee;
-  padding: 10px;
-}
-nav a {
-  margin-right: 15px;
-  text-decoration: none;
-  color: #333;
-}
-
-.container {
-  max-width: 900px;
-  margin: 0 auto;
-  padding: 0 20px;
 }
 
 body {
@@ -23,14 +8,35 @@ body {
   font-size: large;
 }
 
-.posts-list {
+/* Navigation bar */
+nav {
   background-color: #eee;
+  padding: 10px;
 }
 
+nav a {
+  margin-right: 15px;
+  text-decoration: none;
+  color: #333;
+}
+
+/* Contains the navbar and the main content of the page */
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+/* Style for links inside the main content */
 main a {
   color: var(--main-color);
   text-decoration: none;
   border-bottom: 1px dotted var(--main-color);
+}
+
+/* Blog posts list */
+.posts-list {
+  background-color: #eee;
 }
 
 blockquote {
@@ -41,6 +47,7 @@ blockquote {
   quotes: "\201C" "\201D" "\2018" "\2019";
 }
 
+/* Styles for figures */
 figure {
   text-align: center;
   margin: 4em 0;
@@ -53,6 +60,7 @@ figcaption {
   margin-bottom: 2em;
 }
 
+/* Intro text for my MFF interview */
 .intro-text {
   font-size: 1.4em;
   line-height: 1.6;
