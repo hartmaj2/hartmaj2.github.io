@@ -33,4 +33,12 @@
 
 The top navbar can be found in `_includes/navigation.html`. The best feature of this navbar is, that it is created automatically using a for loop (written in liquid templating language) that goes through all pages in the sections.
 
-Introduced a variable `navbar-order` which can be added to front matter to control the order of the page in the navbar. The code that does this uses sorting to create a new sorted list of pages with `{% assign nav_pages = site.pages | sort: "title" | reverse | sort: "navbar_order" | reverse %}`
+Introduced a variable `navbar_order` which can be added to front matter to control the order of the page in the navbar. The code that does this uses sorting to create a new sorted list of pages with `{% assign nav_pages = site.pages | sort: "title" | reverse | sort: "navbar_order" | reverse %}`
+
+The navbar has two layers. The main navbar and secondary navbar. A page will appear on the main navbar if it has `navbar_order` set to some value.
+
+The secondary navbar appears only for pages which are part of a section with subsections. If that is so, the page has to have `section_key` set.
+
+## Technical tricks
+
+`where_exp` is like `where` but is written like a general lambda function.

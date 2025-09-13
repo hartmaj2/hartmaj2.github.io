@@ -1,6 +1,9 @@
 ---
 layout: default
-title: Polya - How to Solve it
+title: "Polya: How to Solve it"
+section_key: maths
+date: 2025-09-13
+permalink: /mathematics/polya-how-to-solve-it
 ---
 
 # {{ page.title }}

@@ -1,8 +1,10 @@
 ---
 layout: default
 title: Mathematics
-permalink: /mathematics/
 navbar_order: 0
+section_key: maths
+date: 2025-3-22
+permalink: /mathematics/
 ---
 
 # Mathematics
@@ -26,18 +28,3 @@ I love that to arrive at certain theorem takes much brainpower and is hard task.
 Many times a simpler proof to mathematical theorem is found. This I find highly interesting. I think it is a worthy job to find easier way to arrive at hard theorems so people in the future will have an easier way and can work harder further down the road. That is what the school system should do. Find better ways to explain things. Better ways to compress the knowledge. Better ways to express ourselves.
 
 An analogy could be this: Using the roman numeral system, many computations required hard work. Even though we technically could do the same amount of computations as we can do nowadays, it was really slow and impractical back than. Just switching the paradigm of how numbers are represented to arabic numerals, we bore a whole new infrastructures of tunnels through which knowledge could burst faster than ever before. 
-
-# Things I would like to play around with
-
-- divisibility rule for 11
-  
-- understand RSA key generation
-
-- come up with good real life examples and visualisations of 
-  - logarithm rules
-  - linear functions
-  - quadratic functions
-
-- where are math concepts useful
-  - prime numbers 
-    - cryptography

@@ -1,6 +1,9 @@
 ---
 layout: default
 title: Jak se učit matematiku
+section_key: maths
+date: 2024-12-21
+permalink: /mathematics/learning
 ---
 
 # {{ page.title }}

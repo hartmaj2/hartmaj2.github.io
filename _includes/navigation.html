@@ -1,6 +1,7 @@
-<nav>
+<!-- PRIMARY NAVBAR -->
+<nav class="primary-nav">
     <!-- Code below sorts by page name first and then by navbar order (so the navbar order is the main criterion)  -->
-    {% assign nav_pages = site.pages | sort: "title" | reverse | sort: "navbar_order" | reverse %}
+    {% assign nav_pages = site.pages | where_exp: "p", "p.navbar_order != nil" | sort: "title" | reverse | sort: "navbar_order" | reverse %}
     {% for iter_page in nav_pages %}
         <a 
             {% if iter_page.url == page.url %} 
@@ -10,3 +11,18 @@
         </a>
     {% endfor %}
 </nav>
+
+<!-- SECONDARY NAVBAR -->
+{% if page.section_key != nil %}
+    {% assign subsections = site.pages | where_exp: "p", "p.section_key == page.section_key" | where: "navbar_order", nil | sort: "title" %}
+    <nav class="secondary-nav">
+        {% for subsection in subsections %}
+            <a 
+            {% if subsection.url == page.url %} 
+                class="active"
+            {% endif %} 
+            href="{{ subsection.url }}"> {{subsection.title }}
+            </a>
+        {% endfor %}
+    </nav>
+{% endif %}
