@@ -1,17 +1,20 @@
 /* The :root is a pseudoclass selector (because of the colon) which matches the root element of the document tree */
 :root {
-  --main-color: #a54;
+  --main-color: rgb(180, 164, 22);
+  --secondary-color: #eee;
 }
 
 body {
   line-height: 1.4;
   font-size: large;
+  font-family: sans-serif;
 }
 
 /* Navigation bar */
 nav {
-  background-color: #eee;
+  background-color: var(--secondary-color);
   padding: 10px;
+  border-radius: 10px;
 }
 
 nav a {
@@ -36,12 +39,12 @@ main a {
 
 /* Blog posts list */
 .posts-list {
-  background-color: #eee;
+  background-color: var(--secondary-color);
 }
 
 blockquote {
   background: #f9f9f9;
-  border-left: 10px solid #ccc;
+  border-left: 10px solid var(--secondary-color);
   margin: 1.5em 10px;
   padding: .1em 10px .1em;
   quotes: "\201C" "\201D" "\2018" "\2019";
