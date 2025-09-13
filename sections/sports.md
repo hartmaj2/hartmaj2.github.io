@@ -2,6 +2,7 @@
 layout: default
 title: Sports
 permalink: /sports/
+navbar_order: 0
 ---
 
 # Sports

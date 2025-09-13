@@ -2,6 +2,7 @@
 layout: default
 title: General
 permalink: /general/
+navbar_order: 0
 ---
 
 # General 

@@ -2,6 +2,7 @@
 layout: default
 title: Virtues
 permalink: /virtues/
+navbar_order: 0
 ---
 
 # Virtues

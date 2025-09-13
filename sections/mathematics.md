@@ -2,6 +2,7 @@
 layout: default
 title: Mathematics
 permalink: /mathematics/
+navbar_order: 0
 ---
 
 # Mathematics

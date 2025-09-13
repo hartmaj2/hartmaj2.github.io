@@ -2,6 +2,7 @@
 layout: default
 title: Appreciations
 permalink: /appreciations/
+navbar_order: 0
 ---
 
 # Appreciations
