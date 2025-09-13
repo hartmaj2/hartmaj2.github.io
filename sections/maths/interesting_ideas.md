@@ -1,6 +1,6 @@
 ---
 layout: default
-title: When bored to explore
+title: When bored
 section_key: maths
 date: 2025-09-03
 permalink: /mathematics/interesting-ideas
