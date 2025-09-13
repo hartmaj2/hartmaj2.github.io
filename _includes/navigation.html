@@ -14,7 +14,7 @@
 
 <!-- SECONDARY NAVBAR -->
 {% if page.section_key != nil %}
-    {% assign subsections = site.pages | where_exp: "p", "p.section_key == page.section_key" | where: "navbar_order", nil | sort: "title" %}
+    {% assign subsections = site.pages | where_exp: "p", "p.section_key == page.section_key" | where_exp: "p" , "p.navbar_order == nil" | sort: "title" %}
     <nav class="secondary-nav">
         {% for subsection in subsections %}
             <a 
