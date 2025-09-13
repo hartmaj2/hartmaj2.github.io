@@ -2,6 +2,7 @@
 layout: blog
 title: Blog
 permalink: /blog/
+navbar_order: 10
 ---
 
 # Blog

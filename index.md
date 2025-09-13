@@ -2,6 +2,7 @@
 layout: default
 title: Home
 permalink: /
+navbar_order: 100
 ---
 
 # Home

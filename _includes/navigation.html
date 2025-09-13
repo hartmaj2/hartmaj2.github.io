@@ -1,9 +1,12 @@
 <nav>
-    <a href="/"> Home </a>
-    <a href="/blog/"> Blog </a>
-    {% for page in site.pages %}
-        {% if page.url != "/" and page.title != "Blog" %}
-            <a href="{{ page.url }}"> {{ page.title }} </a>
-        {% endif %}
+    <!-- Code below sorts by page name first and then by navbar order (so the navbar order is the main criterion)  -->
+    {% assign nav_pages = site.pages | sort: "title" | reverse | sort: "navbar_order" | reverse %}
+    {% for iter_page in nav_pages %}
+        <a 
+            {% if iter_page.url == page.url %} 
+                class="active"
+            {% endif %} 
+                href="{{ iter_page.url }}"> {{ iter_page.title }} 
+        </a>
     {% endfor %}
 </nav>

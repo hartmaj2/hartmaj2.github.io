@@ -32,3 +32,5 @@
 ### Top navbar
 
 The top navbar can be found in `_includes/navigation.html`. The best feature of this navbar is, that it is created automatically using a for loop (written in liquid templating language) that goes through all pages in the sections.
+
+Introduced a variable `navbar-order` which can be added to front matter to control the order of the page in the navbar. The code that does this uses sorting to create a new sorted list of pages with `{% assign nav_pages = site.pages | sort: "title" | reverse | sort: "navbar_order" | reverse %}`
