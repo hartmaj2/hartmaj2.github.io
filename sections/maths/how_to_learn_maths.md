@@ -9,38 +9,50 @@ permalink: /mathematics/learning
 
 # {{ page.title }}
 
-## Zkusit vymyslet sam, nez si vyhledam odpoved
+## Zkus to vymyslet sám, než si vyhledáš odpověď
 
-Je dulezite nevyhledavat si hned odpovedi i presto, ze ta moznost existuje. V dnesni dobe je nesmirne uzitecne, umet si veci sam odvodit a nebyt zavysly na tom, vyhledavat si informace stale dokola. S tim souvisi i trenovani pameti.
+Je důležité nevyhledávat si hned odpovědi, i přesto že ta možnost existuje. V dnešní době je nesmírně užitečné umět si věci sám odvodit a nebýt závislý na tom, vyhledávat si informace stále dokola. S tím souvisí i trénování paměti.  
 
-Je tedy dobre, snazit se pred tim, nez neco vyhledam se sam zamyslet nad tim, co bych cekal za odpoved a tim si trenovat svoji intuici. Proste byt ve svem mysleni aktivni.
+Je tedy dobré snažit se předtím, než něco vyhledám, sám zamyslet nad tím, co bych čekal za odpověď, a tím si trénovat svoji intuici. Prostě být ve svém myšlení aktivní.  
 
-## Snazit se odpovidat na otazky od prednasejiciho v hlave
+## Snaž se odpovídat na otázky od přednášejícího v hlavě
 
-Na prednaskach se treba hodi snazit se domyslet, co prednasejici rekne, abych si co nejvice potrenoval mozek. Nejvice se clovek nauci aktivnim generovanim, ne pasivnim ctenim.
+Na přednáškách se třeba hodí snažit se domyslet, co přednášející řekne, abych si co nejvíce potrénoval mozek. Nejvíce se člověk naučí aktivním generováním, ne pasivním čtením.  
 
-## Trenovat si mysleni bez papiru
+## Trénuj si myšlení bez papíru
 
-Take je velmi uzitecne, trenovat si dovednost, promyslet si vse v hlave bez papiru. Drive jsem pouzival papir jako berlicku temer vzdy. Nyni me fascinuje, kolik toho zvladnu zpracovat v hlave bez toho, abych pouzival jakoukoliv pomucku. 
+Také je velmi užitečné trénovat si dovednost promyslet si vše v hlavě bez papíru. Dříve jsem používal papír jako berličku téměř vždy. Nyní mě fascinuje, kolik toho zvládnu zpracovat v hlavě bez toho, abych používal jakoukoliv pomůcku. 
 
-Spocitat nejake jednoduche priklady. Promyslet si nejaky postup algoritmu. Promyslet si dukaz.
+Nakonec je celý proces často rychlejší, než kdybych musel vytahovat papír a tužku. Takhle si navíc zvládnu promyslet i dost těžké příklady během procházky, čímž si pěkně zkrátím čas.  
 
-## Ptat se, jaky je obecny obrazek dukazu
+Člověk takto zvládne ledacos. Například vyřešit nějaké jednoduché příklady. Promyslet si nějaký postup algoritmu. Promyslet si důkaz.  
 
-Nekdy ma clovek tendenci prilis se zamerit pri poslouchani dukazu na detaily. To na jednu stranu dava smysl, clovek by preci jen mel kazdemu kroku rozumet. Jakakoliv dira by znamenala, ze dukaz je neplatny. 
+## Zmapuj, jaká je obecná struktura důkazu
 
-Na druhou stranu dulezita cast dokazovani je take ta, naucit se vnimat celkovou strukturu dukazu. Jake jsou ty obtizne kroky a myslenkove pochody, ktere jsou pro tento dukaz specificke?
+Někdy má člověk tendenci příliš se zaměřit při poslouchání důkazu na detaily. To na jednu stranu dává smysl, člověk by přece jen měl každému kroku rozumět. Jakákoliv díra v argumentaci by znamenala, že důkaz je neplatný.  
 
-Casto se take dukaz da rozdelit na casti, ktere clovek zvladne poskladat nejak sam a na casti, kde je potreba pochopit nejakou tezkou myslenku, ktera cloveka zase navede na spravnou cestu dale tim dukazem.
+Na druhou stranu důležitá část dokazování je také ta, naučit se vnímat celkovou strukturu důkazu. Jaké jsou ty obtížné kroky a myšlenkové pochody, které jsou pro tento důkaz specifické?  
 
-## Shrnout si hlavni myslenky na konci vymysleni nejakeho prikladu, navrzeni programu, atd.
+Často se také důkaz dá rozdělit na části, které člověk zvládne poskládat nějak sám, a na části, kde je potřeba pochopit nějakou těžkou myšlenku, která člověka zase navede na správnou cestu dále tím důkazem.  
 
-Vzdy, kdyz se mi povede vyresit nejaky obtizny ukol, ze ktereho by bylo dobre si vzit ponauceni. Tak se zamyslet znovu nad tim, jak jsem postupoval a zopakovat si ty kroky, aby mi bylo jasne, ze uz je mi to uplne jasne.
+## Jakmile něco vyřešíš, nech si chvilku na reflexi
 
-Napriklad take pote, co me napadne nejaky algoritmus, jak neco naprogramovat, tak se jeste pred otestovanim zamyslet, zda vse opravdu dava smysl.
+Vždy, když se mi povede vyřešit nějaký obtížný úkol, tak se zamyslet znovu nad tím, jak jsem postupoval. Zopakovat si všechny klíčové kroky, aby mi bylo jasné, že jim všem dobře rozumím. Tedy, že vím, proč jsem je udělal, jak jsem je udělal a proč fungují.
 
-## Kdyz je neco prilis tezke vyresit, nezaseknout se u toho
+Například také poté, co mě napadne nějaký algoritmus, jak něco naprogramovat, se ještě před otestováním zamyslet, zda vše opravdu dává smysl.  
 
-Pokud je nejaky problem prilis tezky na vyreseni, casto jsem mel tendenci ho nepustit, nez jsem na to neprisel. To souviselo s tim, ze jsem bral odchazeni od toho ukolu jako prohru. Tak to ale vubec neni, pokud uz jsem tomu ukolu venoval dost casu, tak je naopak dobre si dat pauzu a nasbirat inspiraci a nove sily resenim jinych problemu. 
+## Když ti to dlouho nejde vyřešit, pokračuj k další aktivitě
 
-Mozek je pote hlavne cerstvy a take si promaze stare zpusoby, ktere nas mozna zavedly na spatnou cestu. Nektere problemy se take proste v te hlave musi ulezet. S tim souvisi, ze je dobre zacinat resit ukoly brzy pred deadlinem, aby kdyz se stane, ze na ne nemuzu prijit, tak abych tu dobu na ulezeni mel.
+Pokud je nějaký problém příliš těžký na vyřešení, často jsem měl tendenci ho nepustit, dokud jsem na něj nepřišel. To souviselo s tím, že jsem bral odcházení od toho úkolu jako prohru. Tak to ale vůbec není. Pokud už jsem tomu úkolu věnoval dost času, je naopak dobré si dát pauzu a nasbírat inspiraci a nové síly řešením jiných problémů.  
+
+Mozek je poté hlavně čerstvý a také si „promaže“ staré způsoby, které nás možná zavedly na špatnou cestu. Některé problémy se také prostě v té hlavě musí „uležet“. S tím souvisí, že je dobré začínat řešit úkoly brzy před deadlinem, aby když se stane, že na ně nemůžu přijít, tak abych tu dobu na uležení měl.
+
+## Měř si, jak dlouho ti řešení úlohy trvá 
+
+Toto souvisí s bodem bezprostředně nad tímto. Člověk si totiž může nastavit časový limit, po kterém si dá od úlohy odpočinek.
+
+To se hodí i v případě, kdy víme, jak úlohu řešit a třeba se jen učíme na zkoušku. Dělat si pauzu pravidelně je zdravé a bez časovače je těžší si vzpomenout, jak dlouho už se učíme.
+
+Dále když vidím běžící stopky, tak mám menší tendenci prokrastinovat. Vidím pak totiž, kolik času ztrácím a to mě vede k uvědomění, že na blbosti není čas.
+
+Poslední důvode je ten, že nám toto umožní lépe poznat své schopnosti a podle toho si umět do budoucna rozplánovat svůj čas. Až příště budu čelit nějakému velkému množství úkolů, tak si budu moci udělat hrubou představu o tom, kolik času mi to zabere.
