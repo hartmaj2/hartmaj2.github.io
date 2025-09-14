@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Jak se učit matematiku
+section_order: 10
 section_key: maths
 date: 2024-12-21
 permalink: /mathematics/learning

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Climbing
+section_order: 10
 section_key: sports
 date: 2024-12-21
 permalink: /sports/climbing

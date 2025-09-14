@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Swimming
+section_order: 9
 section_key: sports
 date: 2024-12-21
 permalink: /sports/swimming
