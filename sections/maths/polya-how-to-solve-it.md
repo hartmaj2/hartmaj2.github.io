@@ -7,7 +7,7 @@ date: 2025-09-13
 permalink: /mathematics/polya-how-to-solve-it
 ---
 
-# {{ page.title }}
+# Four methods
 
 Jelikož brzy budu vést cvičení z diskrétní matematiky na MFF UK. Začal jsem si číst tuto pěknou knížku od George Polyi. Měla by člověka naučit, jak efektivně řešit matematické problémy. Myslím si, že je to dovednost, která je dobrá umět i do běžného života. Spoustu strategií, které člověk při řešení matematických problémů používá se dá využít i při řešení problémů všedních.
 
@@ -52,3 +52,37 @@ Je nyní výsledek očividný, když už ho máme před sebou? Dokážeme si vý
 Ještě lepší je umět se zamyslet nad jiným způsobem, který by došel ke stejnému řešení. Pokud takový způsob existuje, tak nám může posloužit jako skvělá kontrola našeho předchozího výsledku.
 
 Zároveň je pěkné se zamyslet nad tím, jestli nemůžeme výsledek ihned použít k řešení nějakého jiného problému.
+
+# Purpose
+
+Polya po zmínění čtyř metod výše navazuje kapitolou purpose neboli účel. Tedy za jakým cílem jako učitelé jdeme. Zmiňuje zde tyto body:
+
+## Helping the student
+
+Hlavní je, pomoci studentovi řešit matematické problémy. Avšak nejen vyřešit ten aktuální probíraný problém, ale nejlépe ho naučit řešit i další podobné problémy, na které student v budoucnu narazí.
+
+Obecně chceme rozvinout studentovu dovednost nezávisle řešit problémy. Tedy řešit problémy s co možná nejméně externí pomoci. Zde je tedy důležité, aby především student přicházel na řešení těch problémů. Důležité je však, aby student nebyl ponechán problému úplně napospas. Učitel tedy musí pomáhat, ale jen v tom nejnutnějším a velice obezřetně.
+
+Pomoci studentovi můžeme především tím, že budeme klást návodné otázky. Zde je klíčové, aby se učitel snažil co nejlépe vžít do role studenta. Tedy snažit se pomyslně číst studentovy myšlenky. Každá návodná otázka by měla být taková, že by si ji byl býval mohl pomyslet i samotný student. Tedy měla by odpovídat jeho aktuálním schopnostem a nanejvýš hraničit přesně s limited jeho dovedností.
+
+## Questions, recommendations, mental operations
+
+Hlavním účelem otázek je, abychom namířili studentovu pozornost na to nejdůležitější. Je to takový usměrňovač toku myšlenek na správný cíl. Polya uvádí seznam dobrých otázek, který ve finále koresponduje nepřímo se seznamem mentálních operací, které jsou užitečné pro řešení problémů. Snažil se je také setřídit v pořadí v jakém se nejpravděpodobněji člověku naskytnou.
+
+## Obecnost
+
+Nesnažíme se naučit studenta jedné konkrétní dovednosti. Tedy řešit jeden konkrétní problém. Chtěli bychom studenta naučit myšlenkovou šablonu, kterou dokáže aplikovat na celé spektrum problémů. Tedy to, co se student naučí by mělo být ideálně přenositelné i do jiných sfér života.
+
+Autor však podotýká, že otázky se liší dle toho, zda je problém typu dokažte nebo nalezněte.
+
+## Selský rozum
+
+Otázky z autorova seznamu míří na to, aby byly prosté a jednoduše pochopitelné. Žádné komplexní divočiny. To, co je na tom seznamu zajímavé je to, že i když přece takové myšlenky používat občas můžeme, tak je většinou neformulujeme slovy a nekonáme ty postupy vědomě. No a to je škoda a toto se snaží autor prolomit.
+
+## Teacher and student. Imitation and practice.
+
+Student by si měl pozvolna uvědomit, jak moc jsou otázky ze seznamu užitečné. Tím, že mu budou pomáhat si nakonec zvykne si tyto otázky pokládat samostatně bez potřeby učitele.
+
+Matematika je dovednost, kterou se člověk učí aktivně. Tedy tím, že aktivně imituje to, co už viděl a procvičuje to stále dokola.
+
+Důležité je, že učitel by měl studenty hezky motivovat, aby problémy chtěli řešit!!! A hezky při řešení problémů dělat divadýlko!!!
