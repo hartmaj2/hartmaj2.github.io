@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Polya: How to Solve it"
+title: "How to Solve it"
 section_order: 9
 section_key: maths
 date: 2025-09-13
