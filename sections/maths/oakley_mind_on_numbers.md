@@ -23,7 +23,7 @@ Zmiňuje zde také tzv. **Einstellung effect**, což je nepěkný jev který nas
 
 Osobně si myslím, že vyhnout se Einstellung effektu lze také tím, že budeme **věřit**, že nějaké řešení najdeme a **nebudeme příliš konzervativní** v tom, jakým způsobem se mají problémy řešit.
 
-Následující poučku si pojmenuji sám jako **kick the hardest butt first** a spočívá v tom, že při plánování úkolů na další den se zeptám sám sebe: "Jaký úkol mi udělá největší radost, když ho zítra oddělám?". Nad tím je potřeba opravdu chvilku aktivně uvažovat a není to samozřejmě jasná věc. O to více ale pomůže, když si tohle člověk uvědomí a může efektivně nakopat zadky těm, kdo to nejvíce potřebují.
+Následující poučku si pojmenuji sám jako **kick the most valuable butt first** a spočívá v tom, že při plánování úkolů na další den se zeptám sám sebe: "Jaký úkol mi udělá největší radost, když ho zítra oddělám?". Nad tím je potřeba opravdu chvilku aktivně uvažovat a není to samozřejmě jasná věc. O to více ale pomůže, když si tohle člověk uvědomí a může efektivně nakopat zadky těm, kdo to nejvíce potřebují.
 
 Užitečná technika je také **priming your mental pump**. Spočívá v tom, že než si přečteme či začneme učit nějaké téma, tak si předem zběžně prohlédnout, kolik mě toho čeká. Člověk se tím trochu natěší na ta témata a může si dát i cíl, kolik toho chce stihnout. S tímto cílem v hlavě má pak člověk větší motivaci být efektivní a neprokrastinovat.
 
