@@ -7,7 +7,7 @@ date: 2024-12-21
 permalink: /sports/swimming
 ---
 
-# {{ page.title }}
+# Swimming
 
 Elegance and meditation combined.
 
