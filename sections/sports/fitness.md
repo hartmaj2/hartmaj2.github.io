@@ -97,3 +97,41 @@ permalink: /sports/fitness
 
 - protažení na ramena o bednu
   - dám ruce na bednu jako bych se chtěl modlit a poté 
+
+## Trénink 27.10.2025
+
+- rozhýbání kyčlí
+  - nohy mám položené na zemi a směrují do boku, chodidla mírně od sebe
+  - následně zvedám nohy do středové polohy v sedě a přetáčím se zrcadlově na druhou stranu
+
+- při rollování spodních zad mírnit tlak tím, že jsem na loktech
+
+- sumo squat
+  - špičky nyní směřují mírně od sebe
+  - hlavu nezakláním, jde paralelně s páteří
+  - ve směru nahoru se odtlačuji od špiček prstů (ale paty nechávám na zemi)
+  - v horní stojící poloze mám váhu více nad špičkami a neprohýbám se v bedrech
+
+- deadbug se závažím
+  - nejít zbytečně daleko závažím dozadu - jinak se mi zvedají žebra což nechci
+  - dýchat pouze nosem
+
+- ski stroj na kardio
+  - ve spodní fázi 
+    - mít rovná záda
+    - ruce dotáhnout až úplně dozadu
+  - v horní fázi
+    - jít na špičky
+    - rukama skončit až úplně nahoře u závěsu na ta madla
+
+- skoro squaty na jedné noze
+  - dolů jdu velmi pomalu
+  - mám zaktivovanou klenbu chodidla
+  - druhou nohu pokládat pomalu nejprve nártem na podložku a pak i kolenem
+  - směrem nahoru si co nejméně pomáhat položenou nohou (kterou během toho pohybu zvedám)
+
+- vytírání podlahy s disky
+  - různé verze - kolena na zemi nebo kolena ve vzduchu
+  - disky šoupu po podlaze směrem od sebe
+  - ruce jsou stále natažené
+  - záda musí být celou dobu rovně! (to dělá problém především u verze s koleny ve vzduchu)
