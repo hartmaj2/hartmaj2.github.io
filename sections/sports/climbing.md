@@ -84,6 +84,9 @@ Tady jsou typy a triky, které je dobré mít během lezení na paměti:
 - nějaká místa také drží mnohem lépe, pokud je držíme ze strany nebo ze spoda
   - je důležité si vyvinout cit pro rozpoznání, jakým směrem a kde mám ten chyt přesně držet
 
+## Než přelezu převis, zkontrolovat, kde jsou stupy
+- nad převisem se stupy ztratí ze zorného pole, je dobré na toto být připraven
+
 # Belaying your partner
 
 Yeah belaying should be considered a sport on its own. People should pay more attention to it.
