@@ -135,3 +135,35 @@ permalink: /sports/fitness
   - disky šoupu po podlaze směrem od sebe
   - ruce jsou stále natažené
   - záda musí být celou dobu rovně! (to dělá problém především u verze s koleny ve vzduchu)
+
+## Trénink 3.11.2025
+
+- rozpažování na lavici (12 kg)
+  - předloktí směřuje stále kolmo do země
+  - v horní poloze končím v ne úplně propnuté pozici paží
+
+- kliky na yoga kostku
+  - hrudí se dotýkám yoga kostky
+  - dolu jdu s nádechem pomalu
+  - nahoru s výdechem rychle
+  - na šířku trochu větší než ramen
+
+- plank se zvedáním nohou
+  - nohy propnout úplně do maxima patou napřed
+  - mezilopatkové svaly aktivovat (nesmí mi propadnout oblast mezi lopatkami)
+
+- shyby
+  - dobré udělat pár repů bez gumy
+  - když nemůžu, tak přejít na gumu
+  - s výdechem rychle nahoru
+  - s nádechem pomalu dolu
+
+- crawls (s kotoučem 5kg na zádech)
+  - dýchám do břicha
+  - snažím se dělat pohyb co nejpomalejší
+  - mít rovná záda
+  - nekroutit zadkem
+  - kotouč nesmí spadnout na zem
+
+- sáňky (20kg)
+  - prostě se zapřu o horizontální tyč a běžím
