@@ -167,3 +167,37 @@ permalink: /sports/fitness
 
 - sáňky (20kg)
   - prostě se zapřu o horizontální tyč a běžím
+
+## Trénink 10.11.2025
+
+- přítahy na kruzích
+  - nohy jsou natažené a položené na hranách pat
+  - já jsem skoro vodorovně s podlahou (tak asi 15-30 stupňů úhel)
+  - do horní polohy vytáčím ruce dlaněmi směrem k trupu
+
+- dipy
+  - v horní poloze mám aktivovaná ramena (nejsem propadlý)
+  - v lehčím případě jsem napnutý a jdu dolů na dotyk špiček u nohou, ten signalizuje, že jdu zase nahoru
+  - v těžsím mám nohy mírně pokrčené dozadu
+  - vždy je ale nutné nezaklánět se a neprohýbat se v bedrech! (to už si raději pomoci nohama od země)
+
+- landmine lunges
+  - používáme olympic bar zakotvený na jedné straně v zemi
+  - jedna ruka začne svírat nezakotvený konec tyče u trupu
+  - opačná noha jde nejprve pokrčená do zadní polohy
+  - následně ze zadní polohy jdu tou samou nohou dopředu, zároveň propnu a zvednu ruku, která drží olympic bar
+
+- intervaly na airbike
+  - 20-10 opakováno 3x
+
+- klek -> hluboký sumo dřep
+  - začnu v kleku
+  - jednu nohu pozvolna vytočím dopředu šikmo
+  - na tuto přední nohu se nyní navalím (pozvolna)
+  - následně přitáhnu do squatové polohy i druhou nohu (zkontrolovat, že mám rovná záda)
+  - a nyní celé zpět a pak druhou nohou opakovat
+
+- vytírání podlahy
+  - na každou stranu a pak na obě
+  - kolena ve vzduchu, ale jsou v pravém úhlu těsně nad zemí
+  - oblast mezi lopatkami nesmí propadávat
