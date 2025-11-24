@@ -34,6 +34,13 @@ Elegance and meditation combined.
 - během nadechování nekroutit hlavu nad hladinu
   - raději využít rotaci ramen, ke které se hlava jen připojí a tím se dostane nenásilně nad hladinu
 
+- ramena, trup a nohy musí rotovat kolem osy
+  - ta osa vypadá, jako bych spolkl tyč a točil se kolem ní
+
+- nohy v momentu největší rotace kopou také stranou
+
+- je potřeba, aby nohy kopaly u sebe a byly vycentrované v ose popsané výše (a nepokrčovali v kolenou)
+
 ## Prsa
 
 - ruce zabírají směrem dolů pod sebe a ne do stran
@@ -53,3 +60,9 @@ Elegance and meditation combined.
 - rameny rotuji kolem vertikální osy těla (neměl bych ale touto osou kývat celou jako takovou, ta by měla stále směřovat tam kam plavu)
 
 - více se hlavou i vrchem trupu položit do vody, aby nohy mohly kopat výše u hladiny a nepadaly
+
+- nevystrkovat břicho nad vodu, naopak podsadit pánev
+
+## Delfínové vlnění
+
+- za žádnou cenu nepokrčovat kolena, snažit se vlnit s nataženýma nohama
