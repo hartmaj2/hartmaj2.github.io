@@ -201,3 +201,28 @@ permalink: /sports/fitness
   - na každou stranu a pak na obě
   - kolena ve vzduchu, ale jsou v pravém úhlu těsně nad zemí
   - oblast mezi lopatkami nesmí propadávat
+
+## Trénink 24.11.2025
+
+- protažení hamstringů na bedně s dumbbellem
+
+- plank na balónu
+  - předloktí položím na balón, dlaně sepnu do modlící polohy
+  - nohy musí být blízko u sebe
+  - mezilopatkové svaly tlačím nahoru, mám aktivovaná ramena
+  - hlavně nesmí bolet bedra
+  - varianta 1 - předloktí posouvat dopředu a dozadu
+  - varianta 2 - předloktí pohybovat v malých kružnicích
+  - varianta 3 - zvedat vždy na chvilku nataženou jednu nohu
+
+- horse stance squat
+  - držím dumbbell 10 kg u prsou
+  - špičky směřují 45 stupňů šikmo od těla
+  - nohy jsou široko od sebe
+  - jdu do dřepu tak, aby kolena svírala kolmý úhel
+  - tlačím kolena ven od sebe (ne dovnitř a doprostřed)
+  - v dolní poloze zůstávám dvě sekundy
+
+- shyby se zvedáním kolen
+  - během shybu zvednu kolena tak, aby svírala kolmý úhel (ale spíš výš než níž)
+  - v horní poloze hlava kouká mírně nahoru
