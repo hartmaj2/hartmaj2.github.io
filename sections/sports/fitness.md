@@ -226,3 +226,12 @@ permalink: /sports/fitness
 - shyby se zvedáním kolen
   - během shybu zvednu kolena tak, aby svírala kolmý úhel (ale spíš výš než níž)
   - v horní poloze hlava kouká mírně nahoru
+
+## Trénink 1.12.2025
+
+- pike push-ups s nohama na bedně
+  - zadek vystrkovat vysoko
+  - dýchat nosem
+
+- kettlebell swings
+  - 
