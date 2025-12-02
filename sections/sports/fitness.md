@@ -234,4 +234,26 @@ permalink: /sports/fitness
   - dýchat nosem
 
 - kettlebell swings
-  - 
+  - měly by zabírat především hamstringy
+  - pohyb je kyčlí dopředu (takový výprc)
+  - dýchat pouze nosem
+  - hlava musí být stále rovným prodloužením páteře (neohýbat ji nahoru během pohybu dolu)
+  - spíš menší rozsah a pořádně
+  - pevná klenba
+
+- deadbugs
+  - dýchat do břicha a do bočních spodních žeber
+  - opravdu velmi poctivě tlačit spodní žebra dolů do podložky a také trochu směrem
+  - nepřehánět míru pohybu (ať se mi hlavně v žádném případě nezvedají žebra)
+
+- zvedání nohou ve visu
+  - začnu s koleny pokrčenými ve visu
+  - musím je držet vysoko a neprohýbat se v bedrech
+  - verze jedna:
+    - jednu nohu propnu dolů
+    - náseldně zvednu zpět do počáteční pozice
+  - verze dva:
+    - jednu nohu propnu dopředu
+    - následně zpět do počáteční pozice
+
+- protažení hamstringů v překážkovém sedu
