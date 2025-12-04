@@ -1,2 +1,7 @@
 exclude:
  - resources.md
+
+collections:
+  books:
+    output: true
+    permalink: /reading/:title/
