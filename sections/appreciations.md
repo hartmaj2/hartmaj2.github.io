@@ -31,13 +31,15 @@ Také velmi radostná a vyzařující takovou pozitivní energii.
 
 ## MS
 
-Velmi nadšený člověk, skvělý parťák na sport. Také obdivuju, jak je efektivní v každodeních věcech. Takový dobrý optimalizátor, což je za mě velmi dobrá vlastnost.
+Velmi nadšený člověk, skvělý parťák na sport. Také obdivuju, jak je efektivní v každodenních věcech. Takový dobrý optimalizátor, což je za mě velmi dobrá vlastnost.
+
+Je na něj také spolehnutí a dobře se s ním komunikuje.
 
 Také se s ním dobře povídá, umí poradit i podpořit. Velmi milý.
 
 ## D
 
-Pracovitý, velmi sociálně smíšlející a soucítící člověk. Jemu vděčím hodně za to, kým teď jsem. Pomohl a pomáhá mi stále. Spojuji si ho hlavně se slovem empatie a blízkost. Dokáže mě vyslišet, když mi je úzko i když mi je hezky.
+Pracovitý, velmi sociálně smýšlející a soucítící člověk. Jemu vděčím hodně za to, kým teď jsem. Pomohl a pomáhá mi stále. Spojuji si ho hlavně se slovem empatie a blízkost. Dokáže mě vyslyšet, když mi je úzko, i když mi je hezky.
 
 Hlavně je také velmi obětavý. Málo kdo toho pro druhé dělá tolik, jako on, myslím.
 
@@ -47,7 +49,7 @@ Také rozumí mému občas střelenému humoru a je přede mnou sám sebou. Za t
 
 ## K
 
-Žák z mého kroužku, který je nesmírně pozorný a šikovný. Vlastně by se od něj mohlo mnoho starších dětí inspirovat. Doufám, že bude mít spoustu úspěchů, protože je to fakt dobrý člověk. Má můj obdiv!
+Bývalý žák z mého kroužku, který je nesmírně pozorný a šikovný. Vlastně by se od něj mohlo mnoho starších dětí inspirovat. Doufám, že bude mít spoustu úspěchů, protože je to fakt dobrý člověk. Má můj obdiv!
 
 ## Š
 
