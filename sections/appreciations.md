@@ -17,7 +17,7 @@ Zároveň musím podotknout, že textem se dá podchytit jen velmi málo z toho,
 
 ## Š
 
-Inspiruje mě hlavně pozitivním přístupem ve škole, když spolu řešíme nějaké příklady. Umí hezky pochválit, když na něco přijdu. To mě vždycky udělá radost. 
+Inspiruje mě hlavně pozitivním přístupem ve škole, když spolu řešíme nějaké příklady. Umí hezky pochválit, když na něco přijdu. To mně vždycky udělá radost. 
 
 Také je rád, když ho v něčem třeba náhodou opravím. Je vidět, že mu víc záleží, aby věci byly správně, než aby měl pravdu, což není samozřejmá vlasnost.
 
