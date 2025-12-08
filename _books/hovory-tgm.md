@@ -37,6 +37,35 @@ Zajímavé a velmi trefné je i jeho zamyšlení o rodině. Dítě se učí v pr
 
 Také říká, že být jedináčkem není ideální.
 
+# O zdraví
+
+Velmi mi imponovalo to, že již ve své době se TGM zamýšlel nad zdravou stravou. Dovolím si sem vykopírovat jednu celou pasáž, která se mi velmi líbí a také přijde zajímavá. Nevzpomínám na žádnou biografii, kde by autor popisoval jeho jídelníček. To mi přijde hezké.
+
+> Vzdělaný člověk se má pozorovat, má
+přemýšlet o své dietě; to není materialism – materialism je nemyslet
+a jíst a pít, co hrdlo ráčí, přes míru a proti rozumu. Především tedy
+střídmost; jíst a pít mnohem méně, než se zpravidla pije a jí. Chceteli to vědět, tedy jím třikrát denně: k snídani napřed něco ovoce,
+ždibec másla a zavařeniny na topince, občas kousek opékané slaniny
+a tak asi půl sklenice neslazeného čaje; jídával jsem někdy i vejce
+naměkko, ale není prý to moc zdravé. K obědu několik lžic bílé
+polévky, malý kousek masa, víc zeleniny, kousek moučníku, ovoce a
+černou kávu. K večeři jsem si zvykl na talířek kaše nebo kousek
+buchty s mlékem obarveným kapkou kávy. To stačí. Ani svým
+hostům nepředkládám k obědu víc, až na jednu koncesi, že
+dostanou takzvané entrée, obyčejně rybu nebo tak; prý taková
+zákuska podněcuje apetyt – nevím, k čemu je toho třeba: stačí ukojit
+přirozený hlad. Mezi tím trojím jídlem nepožívám nic, leda o páté
+doušek holého čaje, je-li společnost. Žaludek si potřebuje
+odpočinout, jako každý pracující úd, a toho se mu dostane
+vyhladověním. Většina lidí nechává svůj žaludek dřít do úmoru –
+přejídat se je jako nosit nad své síly těžká břemena. Dnes už i
+medicína varuje lidi před tloušťkou; tlouštíci se nedožijí dlouhého
+věku, protože ukládají většině svých orgánů přílišnou námahu. A
+nadto tloušťka není pěkná na pohled. To se rozumí, i to patří k
+programu humanitnímu, aby lidé byli krásní.
+
+Každopádně ten úryvek demonstruje, jak moc byl TGM všestranný člověk. Hledal rovnováhu ve svém životě a nepropadl tedy jen kariéře na úkor svému fyzickému zdraví. Však se také dožil úchvatných 87 let.
+
 ## Ostatní
 
 Utkvělo mi v hlavě to, že se velmi ostře vymezuje vůči sebevraždě. Odsuzuje lidi, kteří si sami vezmou život. Člověk by měl být odhodlaný snášet i nejtěžší situace života.
