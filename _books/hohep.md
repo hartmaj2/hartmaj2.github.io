@@ -1,6 +1,9 @@
 ---
 layout: default
-title: Habits of Highly Effective People
+title: "Habits of Highly Effective People"
+author: "Stephen R. Covey"
+started: 2025-03-24
+finished: false
 ---
 
 # 7 Habits of Highly Effective People
