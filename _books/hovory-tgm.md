@@ -3,7 +3,7 @@ layout: default
 title: "Hovory s T.G.M."
 author: "Karel Čapek"
 started: 2025-10-01
-finished: false
+finished: 2025-12-08
 ---
 
 # Hovory s T.G.M.
@@ -73,3 +73,7 @@ Utkvělo mi v hlavě to, že se velmi ostře vymezuje vůči sebevraždě. Odsuz
 Často zmiňuje, jak velmi rád TGM četl. Dokonce jednu celou kapitolku v knize pojmenoval „Čtenářův svět“ Naučil se také mnoho jazyků a uměl potom číst knížky v originálech. Skrze francouzskou literaturu poznával francouzskou kulturu atd. Dokonce latinu se začal učit sám jelikož chtěl rozumnět nějakým latinským citátům v nějaké knize.
 
 Obecně TGM velmi rád poznával a učil se novým věcem. Vždy ale hledal, jaký je smysl toho všeho poznání.
+
+## Poznámka
+
+Nedočetl jsem celou knihu, ale jen tu biografickou část. Konkrétně do strany 150.
