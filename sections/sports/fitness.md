@@ -257,3 +257,19 @@ permalink: /sports/fitness
     - následně zpět do počáteční pozice
 
 - protažení hamstringů v překážkovém sedu
+
+## Trénink 15.12.2025
+
+- toes to bar
+  - s pokrčenými koleny zvedám nohy až k tyči
+
+- reverse toes to bar
+  - vysím v horní pozici toes to bar a zkouším, jak moc nízko a zpěz se dokáži dostat
+
+- aktivace lopatek na tyči
+  - podobná jako aktivace ramen, ale jdu do větší výšky
+
+- dřep na jedné noze s držením trx
+  - snažit se co nejméně si pomáhat rukama
+  - noha, která je ve vzduchu nemusí být propnutá a vysoko (aby si odpočala)
+
