@@ -273,3 +273,23 @@ permalink: /sports/fitness
   - snažit se co nejméně si pomáhat rukama
   - noha, která je ve vzduchu nemusí být propnutá a vysoko (aby si odpočala)
 
+## Trénink 22.12.2025
+
+- lunges se dvěmi 10kg kettles
+  - držíme v každé ruce jeden
+  - jedna noha jde dozadu a následně dopředu na špičku
+  - verze 2: nejdeme dopředu na špičku, ale zvedneme nohu do pokrčení ve vzduchu
+
+- commando pull ups 
+  - jedna ruka podhmat druhá nadhmat
+  - v horní poloze jdu blíže k té ruce, která je v podhmatu
+  - na každou stranu 3, dále možné dodělat na gumě
+
+- hand standy u stěny
+  - dále je možné u stěny přejít do strany a pak teprve slézt
+
+- předkopávání na dip barech
+  - aktivovaná ramena
+  - nohy do pokrčení ve vzduchu
+  - následně propínám vždy jednu nohu
+  - verze 2 - propínám obě nohy dopředu naráz
