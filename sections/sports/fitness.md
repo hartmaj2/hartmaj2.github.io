@@ -293,3 +293,25 @@ permalink: /sports/fitness
   - nohy do pokrčení ve vzduchu
   - následně propínám vždy jednu nohu
   - verze 2 - propínám obě nohy dopředu naráz
+
+## Trénink 5.1.2026
+
+- pike pushups u stěny
+  - nohy tak ve výšce 1m na stěně
+  - ruce zhruba 1m od stěny a 1m od sebe
+    - ruce spíš šířeji od sebe než blíže
+
+- drop stance squat
+  - měl bych cítit zadek a vnitřní stehno
+  - jít hodně hluboko, váhu držet vzadu
+  - jedna noha je na stepu a k té se pokrčuji
+  - druhá noha zůstává celou dobu natažená
+
+- předkopávání nohou ve visu
+  - nohy jsou pokrčené a kolena jsou vysoko
+  - střídavě natahuji vždy jednu nohu do úplného propnutí a zpět
+
+- plank na balónu
+  - stát na špičkách nohou
+  - mít nohy velmi u sebe
+  - zvedat mezilopatkový úsek zad nahoru
