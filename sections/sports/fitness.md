@@ -315,3 +315,18 @@ permalink: /sports/fitness
   - stát na špičkách nohou
   - mít nohy velmi u sebe
   - zvedat mezilopatkový úsek zad nahoru
+
+## Trénink 13.1.2026
+
+- two-handed landmine lunges
+  - je jedno v jakém pořadí budou ruce za sebou, ale je potřeba být konzistentní
+
+- knee raises do strany
+  - jít pomalu nahoru i dolu
+
+- kliky na kruzích
+  - kruhy jsou cca 30 čísel nad zemí
+  - v horní poloze jsou kruhy dírou směrem dopředu
+  - v dolní poloze směrem do stran
+
+- schody - tempo 32 a celkem 1000 schodů
