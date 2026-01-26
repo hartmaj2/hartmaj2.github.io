@@ -330,3 +330,27 @@ permalink: /sports/fitness
   - v dolní poloze směrem do stran
 
 - schody - tempo 32 a celkem 1000 schodů
+
+## Trénink 26.1.2026
+
+přítahy na kruzích na jednu ruku
+  - druhá ruka jen na třech prstech podpírá
+  - v horní poloze jde nezatížená ruka do strany
+  - nevytáčet se trupem do strany
+
+wipers/leg raises
+  - 4x na každou stranu
+  - jít pomalu a kontrolovaně
+
+visy na jedné ruce s přítahem kolen
+  - ruce blízko u sebe
+  - pustím jednu ruku a následně zvednu kolena do kolmé pozice
+  - držet dlouho v horní pozici
+
+pike pushups s nataženou nohou
+  - nohu ve vzduchu zkouším mít co nejvíce propnutou
+  - nevyklánět boky do strany
+
+handstandy z planku na stěnu
+
+minutu běžky
