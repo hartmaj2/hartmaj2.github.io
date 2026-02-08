@@ -354,3 +354,16 @@ pike pushups s nataženou nohou
 handstandy z planku na stěnu
 
 minutu běžky
+
+## Trénink 3.2.2026
+
+- jednoruční přítahy na kruzích
+
+- squaty s landminem
+  - střídat pozice rukou
+  - mírně být nakloněn směrem k landmine
+
+- plank s kick through boku a zvednutím jedné ruky
+
+- saně
+  - 4 délky
