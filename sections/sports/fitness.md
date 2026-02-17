@@ -368,6 +368,8 @@ minutu běžky
 - saně
   - 4 délky
 
+- balanc na balónu (možná to bylo až ten další trénink)
+
 ## Trénink 9.2.2026
 
 - trocha teorie
@@ -377,5 +379,7 @@ minutu běžky
 - ručkování na hrazdách
 
 - zvedání zadku na dip kruzích
+
+- svíčky - balanc v horní poloze
 
 - další cviky, které jsem zapomněl...
