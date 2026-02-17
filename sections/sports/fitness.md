@@ -367,3 +367,15 @@ minutu běžky
 
 - saně
   - 4 délky
+
+## Trénink 9.2.2026
+
+- trocha teorie
+  - protrakce a retrakce
+  - elevace a deprese
+
+- ručkování na hrazdách
+
+- zvedání zadku na dip kruzích
+
+- další cviky, které jsem zapomněl...
