@@ -383,3 +383,27 @@ minutu běžky
 - svíčky - balanc v horní poloze
 
 - další cviky, které jsem zapomněl...
+
+- mrskání kobrama
+  - držet si ramena v depresi
+
+
+## Trénink 17.2.2026
+
+- knee tuck v handstandu
+  - mít ramena v elevaci
+  - nejít příliš blízko ke stěně
+
+- skákání s kobrama v ruce (30s)
+  - držet ramena v depresi
+  - synchronizovat ruce a skok
+
+- vytírání podložky (nejprve jedna ruka, pak obě)
+  - nekroutit zadek
+  - kolena jsou ve vzduchu 
+  - v horní poloze jsou ramena v protrakci
+
+- high pull ups s gumou
+
+- přitahování nohy ve visu
+  - startovní poloha má obě nohy pokrčené nahoře
