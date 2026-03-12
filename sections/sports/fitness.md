@@ -407,3 +407,21 @@ minutu běžky
 
 - přitahování nohy ve visu
   - startovní poloha má obě nohy pokrčené nahoře
+
+## Trénink 10.3.2026
+
+- sklapování vrchní nohy a ruky v side planku
+  - koleno zvedat vysoko k hrudníku
+  - když jedu na počet repetic, tak nejet příliš pomalu
+
+- přednožování ve visu
+
+- wall handstand pike pushup
+  - jít hlavou na dvě cihličky a postupně progresovat, kolik tam mám cihliček
+  - po dokončení chvíli klečet na zemi, kvůli nízkému tlaku
+
+- skákání s anakondama
+  - rychlá frekvence
+  - ruce nic aktivně nedělají, spíš se jen tak vezou
+
+- protažení třísel s dopomocí tyče
