@@ -56,3 +56,13 @@ To se hodí i v případě, kdy víme, jak úlohu řešit a třeba se jen učím
 Dále když vidím běžící stopky, tak mám menší tendenci prokrastinovat. Vidím pak totiž, kolik času ztrácím a to mě vede k uvědomění, že na blbosti není čas.
 
 Poslední důvode je ten, že nám toto umožní lépe poznat své schopnosti a podle toho si umět do budoucna rozplánovat svůj čas. Až příště budu čelit nějakému velkému množství úkolů, tak si budu moci udělat hrubou představu o tom, kolik času mi to zabere.
+
+## Prozkoumat limitní případy
+
+Dobrý způsob jak si ověřit, zda jsem správně napsal například znění nějakých vět. Ta věta musí přece fungovat, když už je dokázaná, tak si mohu zkusit dosadit do ni nějaké konkrétní objekty, o kterých něco tvrdí. Závěr by pak měl platit.
+
+Co když do rovnice dosadím 1 nebo 0 bude pak fungovat? Co úplně triviální příklady grafů?
+
+## Co se děje, když malinko pohnu hodnotou
+
+Získat intuici nad různými rovnicemi lze tak, že si představíme, co se děje, když malinko pohnu se vstupními hodnotami. Tento přístup lze použít například pro fyzikální vzorce.
