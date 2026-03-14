@@ -11,6 +11,10 @@ permalink: /mathematics/interesting-ideas
 
 Here are mathematical and algorithmical concepts that I find interesting and would like to spend some time thinking about them.
 
+## Cryptography
+
+- how apps like iOS Passkey or Authenticator work
+
 ## Divisibility rule for 11
 
 This rule is very useful for checksums. For example Czech birth numbers and banking numbers use this divisibility rule. The rule is as follows  sum up all digits on odd positions and subtract all digits on even position. If the resulting number is divisible by 11, then the original number is divisible by 11.
