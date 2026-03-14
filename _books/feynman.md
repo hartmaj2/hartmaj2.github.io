@@ -12,7 +12,7 @@ finished: 2026-02-02
 
 Utkvělo mi v hlavě, jak moc byl inteligentní. Už jako malý uměl opravovat rádia a vydělávat si za to peníze. Zajímavá historka je, když u opravování jednoho rádia jen 10 minut chodí a přemýšlí, co je asi špatně a pak ho teprve opraví. Od té doby o něm ten týpek říká, že opravuje rádia přemýšlením.
 
-## Střední škola
+## Střední škola
 
 Vymýšlel si vlastní notaci, ale pak zjistil, že mu nikdo nerozumí. Sice ta jeho notace byla jednodušší, ale uvědomil si důležitost nějakého standardu.
 
