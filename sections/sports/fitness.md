@@ -425,3 +425,33 @@ minutu běžky
   - ruce nic aktivně nedělají, spíš se jen tak vezou
 
 - protažení třísel s dopomocí tyče
+
+## Trénink 17.3.2026
+
+- protažení ve visu
+  - zvedání ramen
+  - kývání do boku
+  - u obou cviků je zbytek těla v klidu
+
+- wall tuck slides
+  - nebýt moc blízko u stěny, abych nešoupal kolenama o zeď
+  - váhu mít více nad rukama (abych simuloval stojku)
+
+- windshield wipers 
+  - zvedám kolena do boků
+  - nohy jsou mírně natažené, ať to není až moc lehké
+  - pouštím pomalu
+
+- deadlift s kettlebelly na jedné noze do holubičky (8kg v každé ruce)
+  - jít pomalu a zadní nohou hodně nahoru a nevytáčet do strany
+  - zůstat nějakou dobu v zadní pozici
+  - myslet na chodidlovou klenbu
+
+- plank na balónu
+  - kombinace jedné nohy nahoře a ježdění rukama nahoru a dolu
+  - mít ramena v protrakci
+
+- mrskání obouruč s lanama
+  - nebýt moc prohnutý dopředu
+  - pohyb jde především z ramen, jinak se ruce příliš neohýbají
+  - zakončeno výskoky se silným úderem lana o zem (6x)
