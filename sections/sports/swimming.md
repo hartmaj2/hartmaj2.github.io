@@ -20,12 +20,15 @@ Elegance and meditation combined.
 - ruka před tělem dlouho napnutá před záběrem a udává směr
 
 - paže nad vodou tahám pohybem, jehož impulz začíná v loktu
+  - loket vede pohyb až do konce, zbytek ruky není v křeči a nechá se volně nést tím loktem
+  - loket je nejvyšším bodem ruky během tohoto tahu až do konce
 
 - paže jedou ve svých kolejích, abych nekřížil svou osu (nedávám je přes hlavu napříč, ale ze široka rovně dopředu)
 
 - během záběru se naklápím ramenem, kterým zároveň dělám záběr (to by mi mělo odemknout silnější záběr)
 
 - rotuji jen kolem vertikální osy mého těla, ta osa však musí zůstat fixně namířená ve směru plavby
+  - nekroutit ramena kolem osy, která protíná obě ramena zároveň
 
 - nohy kopou více u hladiny a nepadají dolů
 
@@ -40,6 +43,7 @@ Elegance and meditation combined.
 - nohy v momentu největší rotace kopou také stranou
 
 - je potřeba, aby nohy kopaly u sebe a byly vycentrované v ose popsané výše (a nepokrčovali v kolenou)
+  - představit si obě nohy jako jeden celek, který musí být u sebe
 
 ## Prsa
 
