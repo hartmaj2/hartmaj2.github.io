@@ -442,7 +442,7 @@ minutu běžky
   - nohy jsou mírně natažené, ať to není až moc lehké
   - pouštím pomalu
 
-- deadlift s kettlebelly na jedné noze do holubičky (8kg v každé ruce)
+- deadlift na jedné noze s kettlebelly  do holubičky (8kg v každé ruce)
   - jít pomalu a zadní nohou hodně nahoru a nevytáčet do strany
   - zůstat nějakou dobu v zadní pozici
   - myslet na chodidlovou klenbu
@@ -455,3 +455,17 @@ minutu běžky
   - nebýt moc prohnutý dopředu
   - pohyb jde především z ramen, jinak se ruce příliš neohýbají
   - zakončeno výskoky se silným úderem lana o zem (6x)
+
+## Trénink 24.3.2026
+
+- deadlift na jedné noze s kettlebelly  (myslím, že i 10kg v každé ruce)
+
+- shyby bez gumy a následně dorážečka na gumě (černá tenká)
+  - nohy zároveň zvedám co nejvýše během shybu (pokud nemám gumu)
+
+- handstand u stěny s přenášením váhy vždy na jednu ruku
+  - nohy dát co nejšíře od sebe
+  - špičky propnout dopředu
+  - snažím se pustit co největší část té ruky, na které nemám váhu
+
+- airbike pozvolné zrychlování 1 min
