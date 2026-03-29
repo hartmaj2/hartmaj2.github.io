@@ -19,7 +19,7 @@ Tady mi velice pomohlo, vnímat především ty intervaly not od sebe. Naučit s
 
 Obecně mi přijde u většiny následujících cvičení pěkné, zkoušet je provádět se zavřenýma očima. Trénuje to představivost, orientaci podle sluchu a člověk si u toho nemusí křivit záda koukáním dolů. Jako bonus se můžeš cítit jako Jedi. 
 
-### Vymýšlení si pomůcek na zapamatování průbehu skladby
+### Vymýšlení si pomůcek na zapamatování průbehu skladby
 
 Během hraní Prelude in C od Bacha jsem narazil na to, že už je skladba velmi dlouhá a zapamatovat si, co kde se postupně děje pro mě nebylo vůbec snadné. Začal jsem si tedy vymýšlet příběh o tom, jaký je příběh té skladby. Když například dvěmi prsty hraji nějaký dlouhý interval, tak jsem natáhl pružinu a to mě pak rozhodilo a proto tam jsou dále ty disonantní akordy atd.
 
