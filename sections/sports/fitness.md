@@ -469,3 +469,24 @@ minutu běžky
   - snažím se pustit co největší část té ruky, na které nemám váhu
 
 - airbike pozvolné zrychlování 1 min
+
+## Trénink 31.3.2026
+
+- kliky hrudí na tenisák (15 reps)
+  - v horní poloze aktivovat mezilopatkové svaly
+
+- přenášení váhy v handstandu u stěny
+  - snažit se mít zpevněná záda a ramena
+  - postupně se v druhé ruce opírat jen o dva prsty
+
+- plank na balónu s nohama na benči (atx)
+
+- zvedání natažené nohy přes cihličku
+  - noha musí být opravdu natažená
+  - patou se snažit být co nejdále
+
+- mrskání lanama (30s), ihned poté 10 silných švihů
+  - nebýt moc v předklonu 
+  - nevystrkovat boky dopředu, ale spíš sedět zadkem vzadu
+
+- přítahy holení k hrazdě z visu, následně s nataženýma nohama zpět do visu
