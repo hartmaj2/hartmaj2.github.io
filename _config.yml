@@ -1,5 +1,6 @@
 exclude:
  - resources.md
+ - site_details.md
 
 collections:
   books:
