@@ -368,7 +368,7 @@ minutu běžky
 - saně
   - 4 délky
 
-- balanc na balónu (možná to bylo až ten další trénink)
+- balanc na balónu
 
 ## Trénink 9.2.2026
 
@@ -490,3 +490,21 @@ minutu běžky
   - nevystrkovat boky dopředu, ale spíš sedět zadkem vzadu
 
 - přítahy holení k hrazdě z visu, následně s nataženýma nohama zpět do visu
+
+## Trénink 7.4.2026
+
+- výdrž ve stojce - zvládl jsem minutu a půl
+  - ruce tak o jednu a půl roztažené dlaně od stěny
+
+- protažení ve stoji na stupínku s dumbbellem v obou rukách
+  - neopírat se dumbbellem o ten stupínek
+
+- shyby se zvedáním kolen s následným doražením na gumě
+  - směrem dolů brzdit proti gravitaci
+
+- dipy na kruzích
+  - ramena v mírné protrakci a depresi
+  - v dolní poloze se mohu dotknout nohama
+
+- boční plank s protipohybem kolena a paže
+  - těžší verze s nohou na stupínku
