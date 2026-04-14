@@ -508,3 +508,33 @@ minutu běžky
 
 - boční plank s protipohybem kolena a paže
   - těžší verze s nohou na stupínku
+
+## Trénink 14.4.2026
+
+- výdrž ve wall handstandu - 1:45
+  - hodně bolely ramena a horní záda
+
+- dřepy s landmine - 25 kg, 12 reps
+  - příště možné trochu přidat váhu
+  - důležité nestát nohama moc blízko tyče
+  - dolů pomalu, nahoru rychle
+
+- wall handstand přenášení váhy
+  - opravdu myslet stále na to, že musím co nejvíce propínat nohy
+
+- dipy na kruzích
+  - lokty nesmí odbočovat do strany
+  - v horní poloze se snažím otevírat hrudník
+  - snažím se kroutit dlaně směrem ven (otevřená dlaň míří dopředu)
+
+- crawls se závažím na zádech
+  - snažit se, aby se váha co nejméně kinklala
+  - zadek nemít příliš nízko
+
+- shyby s mezihmatem
+
+- výdrž se zvednutými koleny na kruzích
+
+- z planku s nataženými pažemi do planku na předloktích
+  - směrem nahoru je to těžké a je nutné hodně přenést váhu dopředu
+  - směrem dolů se snažit jít co nejpomaleji
