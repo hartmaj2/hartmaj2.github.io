@@ -538,3 +538,13 @@ minutu běžky
 - z planku s nataženými pažemi do planku na předloktích
   - směrem nahoru je to těžké a je nutné hodně přenést váhu dopředu
   - směrem dolů se snažit jít co nejpomaleji
+
+## Trénink 21.4.2026
+
+- přítahy na rozehřátí
+
+- pull ups - bez gumy + guma na doraz
+
+- plank s posouváním dřevěných polokvádrů s nohama na benči
+
+- squat s kettlebellem
