@@ -548,3 +548,29 @@ minutu běžky
 - plank s posouváním dřevěných polokvádrů s nohama na benči
 
 - squat s kettlebellem
+
+- stojka na hlavě
+  -  tři pevné body
+  -  začít pomalu s váhou hodně vpředu
+-  
+
+## Trénink 28.4.2026
+
+- squat s kettlebelem v ruce
+  - v horní pozici je kettlbel držen před břichem
+  - v dolní pozici ho zvedám k bradě
+
+- ručkování overgrip to undergrip s koleny nahoře
+
+- výskoky na bednu
+  - 20 x na nižší
+  - 12 x na vyšší
+
+- přeskoky z hrazdy na vyšší hrazdu
+
+- boční plank s nohama na trx
+  - zvedat zadek nahoru
+  - nerotovat bok směrem dopředu
+  - ramena táhnout do deprese
+
+- na hrazdě pouštění vždy jedné ruky a dávání spět s nohami pokrčenými
