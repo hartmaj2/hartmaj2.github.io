@@ -574,3 +574,22 @@ minutu běžky
   - ramena táhnout do deprese
 
 - na hrazdě pouštění vždy jedné ruky a dávání spět s nohami pokrčenými
+
+## Trénink 12.5.2026
+
+- kettlebel jednoruční deadlift a pak zvednutí
+  - po celou dobu pohybu očima sledovat kettlebell
+  - ramena by měla být v depresi (jinak budou bolet trapézy) 
+
+- side plank s nohama na trx s jednou paží v upažení
+  - nejprve staticky, poté rukou střídavě z pokrčení pod tělem do upažení
+
+- kettlebell swings
+  - nezapomínat úplně zatínat zadek a propnout stehna
+  - holeně kolmo k zemi t.j. nebýt kolenami moc vpředu nad chodidly
+
+- shyby 5x a pak dodělání na tenké gumě
+  - druhá série s úzkým úchopem
+
+- plank s nohama na benči a rukama na balóně
+  - jít dopředu a dozadu pomalu (nespěchat)
