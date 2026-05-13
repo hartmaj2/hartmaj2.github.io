@@ -45,6 +45,10 @@ Elegance and meditation combined.
 - je potřeba, aby nohy kopaly u sebe a byly vycentrované v ose popsané výše (a nepokrčovali v kolenou)
   - představit si obě nohy jako jeden celek, který musí být u sebe
 
+- v nohou se opírat o vrchní stehna a z nich vést celý pohyb, zbytek nohou jen vlaje
+
+- nádech mít co nejkratší a nezaklánět při něm hlavu, aby mohla ruka, která jde zrovna dopředu provést plynulý pohyb a nebylo to trhané
+
 ## Prsa
 
 - ruce zabírají směrem dolů pod sebe a ne do stran
