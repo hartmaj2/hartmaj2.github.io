@@ -593,3 +593,23 @@ minutu běžky
 
 - plank s nohama na benči a rukama na balóně
   - jít dopředu a dozadu pomalu (nespěchat)
+
+## Trénink 19.5.2026
+
+- side plank s nohama na stepu
+  - držet boky vysoko
+  - horní noha kmitá úplně natažená nahoru a dolu
+  - horní ruka napnutá do stropu
+
+- přítahy s nohami na bedně
+  - ramena držet v retrakci
+
+- srandy na kruzích
+  - ramena také držet v retrakci
+  - zápěstí drží zejména na malíkové hraně
+  - nastupovat na kruhy pomalu (nevyskakovat na ně)
+  - zprvu držet s koleny nahoře
+    - později sundavat a zvedat jednu nohu
+    - později obě
+
+- tři intervaly na air biku 
