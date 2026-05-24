@@ -8,6 +8,10 @@ navbar_order: 100
 
 Out of all places in the universe, you arrived at my webpage. Enjoy this unique moment that less than 0.0001% people have the honor to experience. 
 
+## SVOČ 2026
+
+Link: [https://docs.google.com/presentation/d/16ksLiWNc3GIx7tF14IymG5Pshc2GYSU5qc_UMAuXGnA/](https://docs.google.com/presentation/d/16ksLiWNc3GIx7tF14IymG5Pshc2GYSU5qc_UMAuXGnA/)
+
 ## What can you find here?
 
 A collection of thoughts that I find useful or interesting. Some of them will be written in English, some of them in Czech. So far I have divided these thought into these sections:
