@@ -613,3 +613,18 @@ minutu běžky
     - později obě
 
 - tři intervaly na air biku 
+
+## Trénink 2.6.2026
+
+- crawls
+- shyby bez a s gumou
+- stojka na hlave
+- russian twists
+
+## Trénink 9.6.2026
+
+- přemísťování kettle belu v planku
+- kardio na běžkách (500,400,300m)
+- polovina skin the cat
+- leg raises ze sedu
+- most bez a u stěny
