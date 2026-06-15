@@ -8,9 +8,11 @@ navbar_order: 100
 
 Out of all places in the universe, you arrived at my webpage. Enjoy this unique moment that less than 0.0001% people have the honor to experience. 
 
-## SVOČ 2026
+# Friends' websites
 
-Link: [https://docs.google.com/presentation/d/16ksLiWNc3GIx7tF14IymG5Pshc2GYSU5qc_UMAuXGnA/](https://docs.google.com/presentation/d/16ksLiWNc3GIx7tF14IymG5Pshc2GYSU5qc_UMAuXGnA/)
+- [Vítek K.](https://www.vitkolos.cz/en)
+- [Lukáš V.](https://lesves.github.io/)
+- [Vojta V.](https://vojtech-votruba.github.io/)
 
 ## What can you find here?
 
@@ -19,5 +21,6 @@ A collection of thoughts that I find useful or interesting. Some of them will be
 2. Appreciations - things that inspire me on my friends and family members
 3. General - simply about life 
 4. Mathematics - about my most belowed subject
-5. Sports - mostly thoughts considering climbing or swimming technique or philosophy
-6. Virtues - list of character traits that I find good
+5. Music - notes about my piano learning journey
+6. Sports - mostly thoughts considering climbing or swimming technique or philosophy
+7. Reading diary - interesting books I've read
