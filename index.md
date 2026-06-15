@@ -10,7 +10,7 @@ Out of all places in the universe, you arrived at my webpage. Enjoy this unique 
 
 # Friends' websites
 
-- [Vítek K.](https://www.vitkolos.cz/en)
+- [Vítek K.](https://www.vitkolos.cz/)
 - [Lukáš V.](https://lesves.github.io/)
 - [Vojta V.](https://vojtech-votruba.github.io/)
 
