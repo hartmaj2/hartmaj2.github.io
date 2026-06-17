@@ -7,13 +7,11 @@ navbar_order: 0
 
 # Appreciations
 
-Čekali jste angličtinu? Tak to máte smůlu. Chce se mi psát česky.
-
 Tato sekce je takový obdivovatelský koutek. Spoustu lidí v mém okolí je naprosto úžasných a mám pocit, že by stálo za to je trochu ocenit. Abych neprovařil moc osobních informací, tak nebudu uvádět jména.
 
-Jsem za ně moc vděčný! Myslím, že je tohle pěkná věc, sepsat si něco takového. Pak si člověk opravdu začne vážit těch lidí kolem sebe a přestane se na svět koukat bledě.
+Jednoduše řečeno, mám rád lidi. Ono je to ostatně velmi jednoduché, když máte kolem sebe takové hvězdy, jako mám já to štěstí mít.
 
-Zároveň musím podotknout, že textem se dá podchytit jen velmi málo z toho, co je na těch vztazích krásné a unikátní. Chtělo by to možná bohatší jazyk? Nebo je na to spíš jakýkoliv jazyk příliš krátký...
+Zároveň musím podotknout, že textem se dá podchytit jen velmi málo z toho, co je na těchto lidičkách krásné a unikátní. Chtělo by to možná bohatší jazyk? Spíš na to prostě žádný myslitelný jazyk nestačí...
 
 ## Š
 
@@ -55,7 +53,15 @@ Bývalý žák z mého kroužku, který je nesmírně pozorný a šikovný. Vlas
 
 Velmi inspirativní žena. Hodně jsem se kvůli ní natrápil, za což však beru veškerou zodpovědnost. Jsem za ni však nesmírně vděčný. Mám radost, že se spolu stále bavíme a že je v mém životě. S málo kým se mi povídá tak dobře jako s ní. Umí dobře naslouchat i povídat, ono to pak tak hezky samo plyne.
 
+Díky ní vím, že po rozchodu nemusí přijít věčná izolace. Zprvu to bylo těžký, ale čas hojí sebevětší rány, a když člověk zahodí ego a opravdu má toho druhého člověka rád, tak to jde. Naopak teď vnímám, že to náš vztah spíš utvrdilo.
+
 Taky velmi akční a pracovitá.
+
+## AG
+
+Nesmírně empatická kamarádka. Neznám snad nikoho, kdo by se dokázal tak rychle navnímat na druhého člověka a vést s ním hluboké rozhovory. Je velmi vnímavá na emoce, což spoustě lidem v dnešní době chybí a myslím, že to je i trochu na škodu. Zároveň se nebojí říci, co si myslí a stát si za svým názorem. S tím souvisí i její obdivuhodná asertivita.
+
+Hlavně je to ale skvělá kamarádka jen tak na pokec. Člověk se s ní vždy cítí přijímaný a pochopený.
 
 ## MN
 
