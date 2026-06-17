@@ -29,7 +29,7 @@ Můj trénink začíná rozcvičkou stupnice. Může se to zdát hodně mechanic
 
 Pěkné je zahrát oběma rukama dvě oktávy nahoru, pak dvě oktávy protipohyb rukou od sebe a pak ruce znovu seznámit protipohybem k sobě. Nakonec ruce obě klesají dvě oktávy dolů.
 
-Zajímavé je vnímat, jak je nutné křížk hrát postupně na střídačku levou a pravou rukou, když hraji protipohyb. Je to takové plánování. Jakmile jedna ruka zahraje křížek tak vím, že další křížek je nutně naplánovaný pro druhou ruku a tahle do té doby může hrát jen bílé klávesy.
+Zajímavé je vnímat, jak je nutné křížky hrát postupně na střídačku levou a pravou rukou, když hraji protipohyb. Je to takové plánování. Jakmile jedna ruka zahraje křížek, tak vím, že další křížek je nutně naplánovaný pro druhou ruku a tahle do té doby může hrát jen bílé klávesy.
 
 ### Akordy
 
