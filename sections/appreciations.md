@@ -82,3 +82,11 @@ Byl mým vzorem téměr celé mé dětství a stále mě inspiruje. Obdivuji hla
 Vyučující na MFF, který mě inspiruje především svým nadšením pro věc. Mám pocit, že na každé přednášce mluví s úsměvem a zápalem, jako by to téma zrovna objevil a měl hned nutkání ho někomu ukázat.
 
 Myslím, že je také velmi pracovitý, jelikož organizuje různé přednášky navíc (IPSka), píše skriptíčka a pomáhá s KSPčkem. Opravdu chválihodné.
+
+## T
+
+Taťku tady asi prostě takhle sprostě provařím v první větě, tak mu to snad nebude vadit. Líbí se mi na něm hlavně to, jak moc je přemýšlivý a stále zvídavý. Dokáže se bavit snad s každým o čemkoliv, protože má úžasný všeobecný přehled o světě.
+
+Především ale miluju jeho přirovnání, která umí střílet od boku na všemožná témata. S taťkou se krásně filosofuje o světě, o víře, o smyslu života a dalších věcech a jsem rád, že je ochotný se o takových otázkách vůbec bavit.
+
+Zároveň je velmi obětavý. Velmi se zasloužil o to, že v naší obci máme les v tak dobrém stavu, jako je teď, jelikož byl iniciátorem lesních úklidů a také pomohl zastavit kácení kvůli výstavbě forest golfu. Takže tati, jestli si tohle čteš, tak ti chci za všechno tohle moc poděkovat!
