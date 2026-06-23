@@ -628,3 +628,21 @@ minutu běžky
 - polovina skin the cat
 - leg raises ze sedu
 - most bez a u stěny
+
+## Trénink 16.6.2026
+
+- stojky na hlavě
+- držení ve squatu + případně zvedání kettle bellu nad hlavu
+
+## Trénink 23.6.2026
+
+- stojky u stěny s přenášením váhy z jedné ruky na druhou 
+  - postupně ubírám počet prstů dotýkajících se země u nezatížené ruky
+- crawl s 10kg na zádech (tentokrát jsem si při vstávání nerozbil kebuli o olympijskou tyč, jupí)
+- přítahy na trx
+  - v dolní poloze jsou ruce v side gripu, v horní mírně v over gripu
+- russian twists
+- hollow body
+  - nohy mírně pokrčené, hlava zvednutá a břicho zpevněné
+  - je to pak trochu jako ab crunch ale hodně si pomáhám nohama a nechci používat bedra
+- leg raises s 3kg medicinbalem mezi nohama
