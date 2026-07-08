@@ -646,3 +646,43 @@ minutu běžky
   - nohy mírně pokrčené, hlava zvednutá a břicho zpevněné
   - je to pak trochu jako ab crunch ale hodně si pomáhám nohama a nechci používat bedra
 - leg raises s 3kg medicinbalem mezi nohama
+
+## Trénink 30.6.2026
+
+- stojka na předloktích (pincha mayurasana)
+  - nepropadat se v ramenou
+  - zprvu pokrčená kolena a opírat se chodidly o zeď
+
+- stojka na hlavě
+  - jít hodně pomalu, nejprve pokrčené nohy nahoru a teprve poté je natahovat
+  - snažit se pomalu spustit zpět
+
+- mlácení anakondama (lana)
+
+- leg raises na kruzích do pozice hlavou dolů
+
+## Trénink 8.7.2026
+
+- protažení s rozkročenýma nohama a kotoučem na zádech
+  - snažit se dostat lokty na zem, případně na cihličky
+
+- plank z natažených rukou na předloktí a zpět
+  - mít stále aktivované lopatky
+  - hlava nepropadat dolů, ale zůstat přirpzenou extenzí páteře
+
+- shyby (7 + 3 s gumou)
+  - směrem dolů jít opravdu velmi pomalu
+  - v nejvrchnější pozici se zastavit na delší dobu
+
+- shoulder press s kettlebellem na jednu ruku v sedě s rozkročenýma nohama
+  - mít velmi rovná aktivovaná záda
+  - stále si držet natažené nohy
+  - varianta: waiter grip (číšník)
+
+- zvedání natažené nohy přes cihlu
+
+- airbike 1 min se zrychlením na posledních 10s (65rpm a pak zrychlení)
+
+
+
+
