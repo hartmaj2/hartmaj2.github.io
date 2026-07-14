@@ -683,6 +683,27 @@ minutu běžky
 
 - airbike 1 min se zrychlením na posledních 10s (65rpm a pak zrychlení)
 
+## Trénink 14.7.2026
 
+- mrtvé tahy s dvěma 10 kg kettlebelly (pak 12 kg činky)
+  - jít hodně pomalu dolů a zastavit se v dolní poloze
+  - paže drží činky trochu více vzadu
+
+- dipy na kruzích
+  - dělat je pomalu
+  - v dolní poloze být hodně předkloněný
+
+- archer pull-ups
+  - lepší je větší rozsah
+  - jsem ve střední pull up pozici a jezdím ze strany na stranu
+
+- posouvání vipera (modrý válec s madly) z doge pozice
+  - důležité je být zpevněný a držet boky na místě
+  - těžiště je pod pupíkem
+
+- pincha stojka u zdi
+
+- stojka na rukách u zdi
+  - rychlé zatínání prstů pro balanc
 
 
