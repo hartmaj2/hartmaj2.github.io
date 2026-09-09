@@ -706,4 +706,19 @@ minutu běžky
 - stojka na rukách u zdi
   - rychlé zatínání prstů pro balanc
 
+## Trénink 8.9.2026
 
+- dřepy s jedním kettlebellem
+  - jít směrem dolů opravdu pomalu (být trpělivý)
+
+- výdrž na zádech s nataženýma nohama (v různých sklonech) a kotoučem v ruce mírně nataženým za hlavu
+  - hodně tlačit břicho a hruď do země, abych se neodlepoval zády (a neprohýbal se)
+
+- natahování nohou střídavě ve visu
+  - nohu, která je ve vzduchu držím velmi vysoko
+
+- přednožování ve visu (střídavě vždy jednu nohu)
+
+- poctivé kliky
+
+- crawls se závažím na zádech
