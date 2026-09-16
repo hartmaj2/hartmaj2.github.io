@@ -722,3 +722,22 @@ minutu běžky
 - poctivé kliky
 
 - crawls se závažím na zádech
+
+## Trénink 15.9.2026
+
+- výpady s 10kg v každé ruce 10 metrů tam a zpět
+  - posléze 3 x 10m
+
+- posouvání destiček v planku, nohy na benči
+
+- zvedání kettlebellu 10kg nad hlavu v sedě s rozkroč nohama
+  - druhá ruka je na zemi a od ní se odtlačuji
+  - rovná vrchní záda celou dobu
+
+- stojky na hlavě 
+  - verze s roztaženýma nohama do stran
+  - snažit se roztáhnout opravdu co nejvíce až do špiček
+  - pak přenášet váhu ze strany na stranu (odlepit jednu ruku vždy na špičky prstů)
+
+- přítahy na kruzích s následným svěšením do sedu a zpět
+  - zkusit držet hrudník v horní pozici opravdu bezprostředně vedle kruhů
