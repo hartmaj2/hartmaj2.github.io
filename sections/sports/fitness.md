@@ -741,3 +741,18 @@ minutu běžky
 
 - přítahy na kruzích s následným svěšením do sedu a zpět
   - zkusit držet hrudník v horní pozici opravdu bezprostředně vedle kruhů
+
+## Trénink 22.9.2026
+
+- stojky na hlavě
+  - přenášení váhy s rozkročenýma nohama
+  - nahoru se zvedat pomalu, pak rozkročit nohy a pak je pomalu dostávat zase k sobě
+
+- výpady na místě s kettlebellem u krku (držím v ruce na stejné straně co je kráčející noha)
+  - být v předklonu (ne v záklonu)
+
+- zvedání jedné nohy přes cihlu (posléze zvedat obě nohy)
+  - nezaklánět se
+  - rukama se opírat o špičky prstů
+
+- shyby bez gumy a na gumě
