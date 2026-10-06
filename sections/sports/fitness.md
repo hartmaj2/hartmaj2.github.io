@@ -756,3 +756,38 @@ minutu běžky
   - rukama se opírat o špičky prstů
 
 - shyby bez gumy a na gumě
+
+## Trénink 29.9.2026
+
+- pike push-ups s podložkou pod rukama
+
+- skin the cat
+
+- střídavé máchání lanama
+  - nestát moc daleko, abych se nepředkláněl (musím být rovný v zádech)
+
+- holubičky s kettlebellem v jedné/obou rukách
+
+- další cviky, které už si nepamatuji :/
+
+## Trénink 6.10.2026
+
+- skin the cat
+  - aktivovat lopatky (stahuji je k sobě)
+
+- split squaty
+  - s držením trx
+  - s pokládáním kolene na cihličku (posléze na složený ručník)
+    - stojná noha je patou u horního rohu složeného ručníku
+
+- shyby s pokrčováním kolen
+  - jít pomalu a zaráz se shybem jdou i kolena
+  - v horní pozici mohu zkusit zůstat déle a dělat tam l-sit (natahovat nohy)
+
+- stojky u stěny s rozkročenýma nohama
+  - snažit se přenášet váhu a být chvíli jen na jedné ruce
+  - je třeba být co nejvíce zpevněný
+
+- pouštění rukou ve visu na hrazdě
+  - ruce mít úplně vedle sebe
+  - pohyb volnou rukou zpět na hrazdu začínat v lopatkách (ty musí být aktivované)
