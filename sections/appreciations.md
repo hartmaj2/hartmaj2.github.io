@@ -90,3 +90,11 @@ Taťku tady asi prostě takhle sprostě provařím v první větě, tak mu to sn
 Především ale miluju jeho přirovnání, která umí střílet od boku na všemožná témata. S taťkou se krásně filosofuje o světě, o víře, o smyslu života a dalších věcech a jsem rád, že je ochotný se o takových otázkách vůbec bavit.
 
 Zároveň je velmi obětavý. Velmi se zasloužil o to, že v naší obci máme les v tak dobrém stavu, jako je teď, jelikož byl iniciátorem lesních úklidů a také pomohl zastavit kácení kvůli výstavbě forest golfu. Takže tati, jestli si tohle čteš, tak ti chci za všechno tohle moc poděkovat!
+
+## KD
+
+Říká se, že život je jako umělecké dílo. Jako obraz, který si malujeme drobnými tahy štětce, den po dni. Je na nás, zda to budou tahy krásné a elegantní, aby dílo vypadalo podle našich představ, nebo pokud to budou tahy ledabylé a bezcílné.
+
+Tobě pak vděčím za to, že dodáváš mému obrazu barvy. Barvy, které jsem neměl tušení, že bych na svém obrazu chtěl mít, ale které se tam náramně hodí. Díky, že děláš můj obraz pestřejší a radostnější. Mám tě rád!
+
+No a co především, s tebou je to malování zábava :)
