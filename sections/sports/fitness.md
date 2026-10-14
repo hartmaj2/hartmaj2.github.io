@@ -791,3 +791,28 @@ minutu běžky
 - pouštění rukou ve visu na hrazdě
   - ruce mít úplně vedle sebe
   - pohyb volnou rukou zpět na hrazdu začínat v lopatkách (ty musí být aktivované)
+
+## Trénink 13.10.2026
+
+- pike push ups s nohama na bedně (ruce na nízké podložce)
+  - ruce nemít příliš blízko bedně
+  - snažit se dotknout vlasy země
+  - v horní poloze jít zadkem co nejvýše
+
+- stojka na hlavě s roztahováním nohou a přenášení váhy
+  - pohyb dělat hodně pomalu, abych měl pod ním kontrolu
+
+- lunges s 10kg kettlebelly (30 metrů každý set)
+  - pamatovat si, jakou nohou začínám
+
+- airbike intervaly (10s pomalu 20s rychle)
+  - 38 kalorií
+
+- visy na jedné ruce 
+  - pohyb začínat v zádech
+  - ve visu ještě udělat dva až tři shoulder shyby
+
+- hollow body pose (15s)
+  - natažené nohy a natažené ruce mírně nad zemí (opravdu úplně natažené)
+  - hlava také mírně nad zemí
+  - snažím se tlačit břicho dolů a dýchat do něj
