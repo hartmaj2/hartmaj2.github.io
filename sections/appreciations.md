@@ -73,15 +73,33 @@ Líbí se mi, jak bere vše s humorem a nadsázkou. Často mi přijde, že tohle
 
 Důležité je zmínit, že obdivuji také jeho sociální odvahu. Nebojí se dělat věci, které já už bych si občas netroufl. Nutno tedy podotknout, že na nějaké z těch věcí bych si ani troufat nechtěl, ale stejně mi to přijde jako sympatická vlastnost.
 
-## MH
-
-Byl mým vzorem téměr celé mé dětství a stále mě inspiruje. Obdivuji hlavně jeho vyjednávací schopnosti. Znám málo koho, kdo by dokázal s lidmi komunikovat tak dobře jako on. Líbí se mi také jeho upřímnost k ostatním. Nebojí se řešit i témata, která nejsou zrovna příjemná, ale přijdou mu důležitá. Nezametá věci pod koberec a řeší věci často na přímo. Také je velmi pracovitý.
-
 ## MM
 
 Vyučující na MFF, který mě inspiruje především svým nadšením pro věc. Mám pocit, že na každé přednášce mluví s úsměvem a zápalem, jako by to téma zrovna objevil a měl hned nutkání ho někomu ukázat.
 
 Myslím, že je také velmi pracovitý, jelikož organizuje různé přednášky navíc (IPSka), píše skriptíčka a pomáhá s KSPčkem. Opravdu chválihodné.
+
+## KH
+
+Ségra je především extrémně inteligentní osoba, kterou je téměř nemožné porazit v jakékoliv společenské hře.
+
+Co se mi však na ségře také moc líbí je, jak je akční a nebojí se cestovat a poznávat nové kultury. Studovala ve Skotsku a pak v Nizozemí a školu tam zvládala bravurně.
+
+Mám moc rád její humor a rád vzpomínám na ty doby, kdy jsme byli mladší a hráli jsme spolu různé hry, občas i úplné blbinky, co jsme si sami vymysleli.
+
+Mám tě rád sestřicko!
+
+## MH
+
+Brácha byl mým vzorem téměr celé mé dětství a stále mě inspiruje. Obdivuji hlavně jeho vyjednávací schopnosti. Znám málo koho, kdo by dokázal s lidmi komunikovat tak dobře jako on. 
+
+Líbí se mi také jeho upřímnost k ostatním. Nebojí se řešit i témata, která nejsou zrovna příjemná, ale přijdou mu důležitá. Nezametá věci pod koberec a řeší věci často na přímo.
+
+Když se do něčeho nadchne, tak dokáže být velmi pracovitý a vynalézavý.
+
+Poslední dobou jsem si také uvědomil, jaký udělal pokrok ve svém vnímání světa. Přijde mi, že se přestal hnát za cíly, které nebyly jeho vlastní a žije teď více podle svých vlastních představ. Líbí se mi, že má odvahu takhle žít a nebojí se toho, že ho ostatní budou soudit.
+
+Mám opravdové štěstí, že mám takhle super bráchu.
 
 ## T
 
@@ -89,11 +107,25 @@ Taťku tady asi prostě takhle sprostě provařím v první větě, tak mu to sn
 
 Především ale miluju jeho přirovnání, která umí střílet od boku na všemožná témata. S taťkou se krásně filosofuje o světě, o víře, o smyslu života a dalších věcech a jsem rád, že je ochotný se o takových otázkách vůbec bavit.
 
-Zároveň je velmi obětavý. Velmi se zasloužil o to, že v naší obci máme les v tak dobrém stavu, jako je teď, jelikož byl iniciátorem lesních úklidů a také pomohl zastavit kácení kvůli výstavbě forest golfu. Takže tati, jestli si tohle čteš, tak ti chci za všechno tohle moc poděkovat!
+Zároveň je velmi obětavý. Velmi se zasloužil o to, že v naší obci máme les v tak dobrém stavu, jako je teď, jelikož byl iniciátorem lesních úklidů a také pomohl zastavit kácení kvůli výstavbě forest golfu.
+
+Díky za všechno tati!
+
+## M
+
+Tak je čas provařit i mamku. Na mamce obdivuji spoustu věcí.
+
+Třeba to, jak se stará o své zdraví. Že pravidelně cvičí a snaží se jíst zdravě. Líbí se mi, že v tomto má však přesah a kromě sebe se snaží starat i o své okolí. Velmi ji záleží na našem životním prostředí a snaží se minimalizovat svoji ekologickou stopu. Nevyhazovat věci, které se dají znovu použít. Nekupovat si zbytečnosti. Třídit odpadky.
+
+Je také velmi soucitná. Než něco udělá, tak se sebe ptá, zda to neublíží jejímu okolí. Snaží se první vždy zamyslet nad tím, zda není chyba na její straně. Zároveň ale pracuje i na tom, aby uměla být v klíčových momentech asertivní.
+
+Rád si s mamkou povídám a chodím na procházky, i když na to poslední dobou není tolik času. Líbí se mi, že se mamka snaží být aktivní, občas někam vycestovat.
+
+Jsi skvělá mami!
 
 ## KD
 
-Říká se, že život je jako umělecké dílo. Jako obraz, který si malujeme drobnými tahy štětce, den po dni. Je na nás, zda to budou tahy krásné a elegantní, aby dílo vypadalo podle našich představ, nebo pokud to budou tahy ledabylé a bezcílné.
+Říká se, že život je jako umělecké dílo. Jako obraz, který si malujeme drobnými tahy štětce, den po dni. Je jen na nás, zda to budou tahy krásné a elegantní, nebo zda to budou tahy ledabylé a bezcílné.
 
 Tobě pak vděčím za to, že dodáváš mému obrazu barvy. Barvy, které jsem neměl tušení, že bych na svém obrazu chtěl mít, ale které se tam náramně hodí. Díky, že děláš můj obraz pestřejší a radostnější. Mám tě rád!
 
