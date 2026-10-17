@@ -25,7 +25,9 @@ Jo a taky dobře asertivní, v tom mě inspiruje také velmi moc!
 
 ## H
 
-Nejinteligentnější člověk, kterého znám. Mimo jiné ale také ohromně pozorná. Když si s ní povídáte, tak víte, že vás opravdu poslouchá. Snaží se pomoct a dává skvělé rady.
+Nejinteligentnější osoba, kterou znám. Mimo jiné ale také ohromně pozorná. Když si s ní povídáte, tak víte, že vás opravdu poslouchá. Snaží se pomoct a dává skvělé rady.
+
+Vlastně je i hodně pracovitá a dává si záležet na věcech, které ji přijdou důležité. Například i teď když spolu vedeme cvika z lineární algebry tak vidím, že se velmi snaží, aby studentům poskytovala co nejkvalitnější službu.
 
 Také velmi radostná a vyzařující takovou pozitivní energii.
 
