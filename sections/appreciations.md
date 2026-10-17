@@ -15,9 +15,11 @@ Zároveň musím podotknout, že textem se dá podchytit jen velmi málo z toho,
 
 ## Š
 
-Inspiruje mě hlavně pozitivním přístupem ve škole, když spolu řešíme nějaké příklady. Umí hezky pochválit, když na něco přijdu. To mně vždycky udělá radost. 
+Cením jeho smysl pro organizaci a strukturovanost. Je to vidět jak v jeho zápiscích z matfyzáckých předmětů, tak i na tom, jak hezky zvládl navrhnout síť u něj doma. S tím souvisí i to, jak se dokáže do věcí nadchnout a věnovat jim spoustu energie, když mu dávají smysl.
 
-Také je rád, když ho v něčem třeba náhodou opravím. Je vidět, že mu víc záleží, aby věci byly správně, než aby měl pravdu, což není samozřejmá vlasnost.
+Inspiruje mě také svým pozitivním přístupem ve škole, když spolu řešíme nějaké příklady. Umí hezky pochválit, když na něco přijdu. To mi vždycky udělá radost. 
+
+Také je rád, když ho v něčem třeba náhodou opravím a je vidět, že mu víc záleží na tom, aby věci byly správně, než aby měl pravdu. To vůbec není samozřejmá vlasnost.
 
 Jo a taky dobře asertivní, v tom mě inspiruje také velmi moc!
 
