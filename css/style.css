@@ -116,3 +116,17 @@ figcaption {
 .two-images figcaption {
   margin-top: 0.75rem;
 }
+
+
+/* Poetry */
+.poem {
+  max-width: 650px;
+  margin: 2em auto;
+  font-family: Georgia, serif;
+  font-size: 1.1em;
+  line-height: 1.8;
+}
+
+.poem p {
+  margin-bottom: 1.5em;
+}
