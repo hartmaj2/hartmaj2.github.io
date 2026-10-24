@@ -816,3 +816,18 @@ minutu běžky
   - natažené nohy a natažené ruce mírně nad zemí (opravdu úplně natažené)
   - hlava také mírně nad zemí
   - snažím se tlačit břicho dolů a dýchat do něj
+
+## Trénink 20.10.2026
+
+- shyby
+  - poslední série byly úzké shyby (místo o velikosti jedné pěsti mezi rukama)
+
+- střídání rukou na cihličkách v planku s nohama na bedně
+
+- dipy na kruzích
+  - pomáhat si rukama, ať to nemám tak těžké
+
+- drop-stance squat
+  - jít hodně zadkem dozadu ať se zadek nenudí
+
+- stojky u zdi
