@@ -831,3 +831,21 @@ minutu běžky
   - jít hodně zadkem dozadu ať se zadek nenudí
 
 - stojky u zdi
+
+## Trénink 27.10.2026
+
+- landmine lunges
+  - pokrčuji stejnou nohu, jako která zvedá tu pozemní minu
+
+- twist balónu sdola nahoru diagonálně ve výpadovém postavení nohou
+  - snažím se co nejvíce zapojovat břicho
+
+- zvedání zadku v lehu na zádech
+  - jedna noha je ve vzduchu a druhá je mírně pokrčená a opřená o zem
+  - mělo by to zapojovat hodně hamstringy
+  - těžší verze je s oběma nohama na trx
+
+- zvednání kolen ve visu a pak pomalé spouštění
+
+- protlaky ve stojce
+  - snažím se protlačit ramena směrem ke zdi
