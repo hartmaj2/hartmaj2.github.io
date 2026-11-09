@@ -849,3 +849,28 @@ minutu běžky
 
 - protlaky ve stojce
   - snažím se protlačit ramena směrem ke zdi
+
+## Trénink 2.11.2026
+
+- ...
+
+## Trénink 9.11.2026
+
+- vytírání podlahy
+  - oběma rukama naráz, nejít nutně extrémně pomalu
+  - směrem k sobě výdech
+  - celou dobu mám kolena nad zemí v pravém úhlu
+  - jsem vytažený nahoru v ramenou
+
+- handstand wall pushups na cihlu
+  - pro zjednodušení mohu pokrčit nohy a cestou dolů je natáhnout
+  - dělat cca 3-4 opakování stačí
+
+- drop stance squat
+  - nepokrčující noha se vytáčí na patě
+  - pokrčující noha zůstává celým chodidlem přilepena k zemi
+  - na balanc se hodí lehký kotouč
+
+- zvedání se hlavou dolů na kruzích
+  - pohyb tahat především zádovými svaly
+  - kolena blízko u hlavy ale daleko od sebe navzájem
