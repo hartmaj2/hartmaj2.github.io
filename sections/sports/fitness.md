@@ -874,3 +874,25 @@ minutu běžky
 - zvedání se hlavou dolů na kruzích
   - pohyb tahat především zádovými svaly
   - kolena blízko u hlavy ale daleko od sebe navzájem
+
+## Trénink 16.11.2026
+
+- shyby 
+  - 5x bez gumy, 5x s gumou
+
+- hollow body pose převalování
+  - začít s pokrčenýma nohama i rukama
+  - čím více natažené, tím je to těžší
+  - snažit se o co nejplynulejší pohyb
+
+- zvedání z planku na bednu
+  - začít na loktech
+  - poté ze side planku dát ruku na bednu a zvednout se
+
+- přenášení váhy ve stojce u stěny
+  - nohy co nejvíce roztahovat od sebe
+  - propínat špičky
+
+- squaty na jedné noze s trx
+  - koleno nesmí jít před patu (musí zabírat hlavně zadek)
+  - nestát moc daleko vzadu 
